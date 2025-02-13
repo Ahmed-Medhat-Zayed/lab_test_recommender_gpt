@@ -1,0 +1,123 @@
+test_code.x,recommended_test_name,n,test_code,category,uzl_test_name,menu,correctness,reviewed_test_code
+,Viral Serologies,1,,NA,NA,NA,not_in_menu,
+,Urinalysis (urinestaal),1,,NA,NA,NA,no_code,"4402, 4431"
+4001,Urinalysis,1,4001,URINESTAAL,Creatinine (urinestaal),standard,incorrect_code,"4402, 4431"
+NA,Urinalysis,1,NA,NA,NA,NA,no_code,"4402, 4431"
+,Urinalysis,9,,NA,NA,NA,no_code,"4402, 4431"
+42064207,Ureum (bloed) and Creatinine (bloed),1,42064207,NA,NA,NA,correct_code,"4206, 4207"
+,Upper GI Endoscopy,1,,NA,NA,NA,not_lab,
+NA,"Tuberculosis Screening (e.g., Quantiferon Gold)",1,NA,NA,NA,NA,not_in_menu,
+,"Tuberculosis Screening (e.g., PPD or IGRA)",1,,NA,NA,NA,not_in_menu,
+2636,Tuberculosis Screening,1,2636,,Toxoplasma gondii PCR bij bewezen seroconversie (amniosvocht),extended,not_in_menu,
+,Tuberculosis Screening,2,,NA,NA,NA,not_in_menu,
+46014612,TSH (bloed) and Vrij T4 (bloed),1,46014612,NA,NA,NA,correct_code,"4601, 4612"
+NA,Toxicology screen (bloed),1,NA,NA,NA,NA,not_in_menu,
+,Toxicology screen (bloed),1,,NA,NA,NA,not_in_menu,
+,Toxicology screen,5,,NA,NA,NA,no_code,7288
+,Toxicology Screen,1,,NA,NA,NA,no_code,7288
+10436,Toxicologie screening (urine),1,10436,,Daas (Tabanus spp) i204 (bloed),extended,incorrect_code,7288
+,Tissue Transglutaminase Antibodies (tTG-IgA),1,,NA,NA,NA,no_code,6072
+2300,Stool Culture,1,2300,,Epstein-Barrvirus EBNA-1 IgG (bloed),extended,incorrect_code,1820
+,Serum Protein Electrophoresis,1,,NA,NA,NA,no_code,5483
+,Serum ketones,5,,NA,NA,NA,not_in_menu,
+,Rheumatoid Factor (RF),1,,NA,NA,NA,no_code,6091
+,Rheumatoid Factor (bloed),1,,NA,NA,NA,no_code,6091
+,Renal Function Tests (RFTs),1,,NA,NA,NA,no_code,"4207, 4206"
+NA,Renal Function Tests,1,NA,NA,NA,NA,no_code,"4207, 4206"
+4215,Peripheral Blood Smear,1,4215,CHEMIE,Urinezuur (bloed),standard,not_in_menu,
+NA,Peripheral blood smear,1,NA,NA,NA,NA,not_in_menu,
+,Peripheral blood smear,7,,NA,NA,NA,not_in_menu,
+,Peripheral Blood Smear,5,,NA,NA,NA,not_in_menu,
+42014202,Natrium (bloed) and Kalium (bloed),1,42014202,NA,NA,NA,correct_code,"4201, 4202"
+,Liver Function Tests (LFTs),2,,NA,NA,NA,no_code,"4211, 4212, 4218, 4217, 4216, 4219, 4221"
+NA,Liver Function Tests,1,NA,NA,NA,NA,no_code,"4211, 4212, 4218, 4217, 4216, 4219, 4221"
+,Lactose Tolerance Test,1,,NA,NA,NA,no_code,11000
+,Kidney Function Tests (bloed),1,,NA,NA,NA,no_code,"4207, 4206"
+,Immunoglobulin Levels,1,,NA,NA,NA,not_in_menu,
+,Hydrogen Breath Test for SIBO,1,,NA,NA,NA,no_code,"11000, 11001"
+,Hydrogen Breath Test,1,,NA,NA,NA,no_code,"11000, 11001"
+,HIV Test,2,,NA,NA,NA,no_code,2025
+5465,HIV Ag/Ab,2,5465,,IgG2 (bloed),extended,incorrect_code,2025
+,"Hepatitis Panel (Hepatitis A, B, C)",1,,NA,NA,NA,not_in_menu,
+,"Hepatitis Panel (Hepatitis A, B, C Serologies)",1,,NA,NA,NA,no_code,"2003, 2006, 2017"
+,Hepatitis Panel (bloed),1,,NA,NA,NA,no_code,"2003, 2006, 2017"
+,"Hepatitis Panel (A, B, C)",1,,NA,NA,NA,no_code,"2003, 2006, 2017"
+NA,Hepatitis Panel,1,NA,NA,NA,NA,no_code,"2003, 2006, 2017"
+,Hepatitis Panel,8,,NA,NA,NA,no_code,"2003, 2006, 2017"
+,Hepatitis panel,1,,NA,NA,NA,no_code,"2003, 2006, 2017"
+4220,Hepatitis panel,1,4220,,Bilirubine totaal (bloed),extended,incorrect_code,"2003, 2006, 2017"
+,ESR (Erythrocyte Sedimentation Rate) (bloed),1,,NA,NA,NA,no_code,108
+1748,Erythrocyte Sedimentation Rate (ESR),2,1748,,Cultuur bij vermoeden kathetersepsis (bloed),extended,incorrect_code,108
+4236,Erythrocyte Sedimentation Rate (ESR),1,4236,CHEMIE,Troponine T hs (bloed),standard,incorrect_code,108
+,Erythrocyte Sedimentation Rate (ESR),1,,NA,NA,NA,no_code,108
+,Erythrocyte sedimentation rate (ESR),1,,NA,NA,NA,no_code,108
+,Echocardiogram,1,,NA,NA,NA,not_lab,
+2327,Cyclisch gecitrullineerd peptide (CCP),1,2327,,Herpes simplex virus PCR bij andere/onbekende indicatie (CSV),extended,incorrect_code,6076
+,CT scan of the head,3,,NA,NA,NA,not_lab,
+5800,CT Scan of the Chest/Abdomen,1,5800,NA,NA,NA,not_lab,
+NA,CT Scan of the Chest/Abdomen,1,NA,NA,NA,NA,not_lab,
+,CT Scan of the Chest/Abdomen,1,,NA,NA,NA,not_lab,
+,CT Head,1,,NA,NA,NA,not_lab,
+846,Cortisol (bloed),1,846,DYNAMISCHE TESTS,Cortisol na ACTH (Korte ACTH stimulatie) (bloed),standard,correct_code,846
+71,Complete Blood Count (CBC),1,71,NA,NA,NA,incorrect_code,"71, 72, 84, 80, 86"
+1833,Complement C4,1,1833,,Mycobacteriën (BK) (lumbaalvocht),extended,incorrect_code,5475
+,Complement C3 and C4 (bloed),1,,NA,NA,NA,no_code,"5474, 5475"
+1831,Complement C3 (bloed),1,1831,,Mycobacteriën (BK) (maagvocht),extended,incorrect_code,5474
+1831,Complement C3,1,1831,,Mycobacteriën (BK) (maagvocht),extended,incorrect_code,5474
+4240,Chest X-ray,1,4240,NA,NA,NA,not_lab,
+NA,Chest X-ray,3,NA,NA,NA,NA,not_lab,
+,Chest X-ray,8,,NA,NA,NA,not_lab,
+4209,Calcium (bloed),1,4209,CHEMIE,Fosfaat (bloed),standard,incorrect_code,4208
+NA,Bone Marrow Biopsy,2,NA,NA,NA,NA,no_code,9431
+NA,Bone marrow biopsy,1,NA,NA,NA,NA,no_code,9431
+,Bone marrow biopsy,6,,NA,NA,NA,no_code,9431
+,Bone Marrow Aspiration/Biopsy,1,,NA,NA,NA,no_code,9431
+,Bone Marrow Aspiration and Biopsy,5,,NA,NA,NA,no_code,9431
+,Blood cultures,3,,NA,NA,NA,not_in_menu,
+2315,Blood Culture,2,2315,,Borrelia antistoffen (bloed),extended,not_in_menu,
+,Blood Culture,3,,NA,NA,NA,not_in_menu,
+4362,"Bloedgas panel (arterieel bloed) : pH, pCO2, pO2, glucose, lactaat, Na, K, Cl",1,4362,NA,NA,NA,partial_incorrect,"4362, 4377, 4376, 4380, 4374, 4375, 4379, 4378"
+4362,Bloedgas panel (arterieel bloed),6,4362,NA,NA,NA,partial_incorrect,"4362, 4377, 4376, 4380, 4374, 4375, 4379, 4378"
+17484235,Bezinkingssnelheid RBC (bloed) or CRP (bloed),1,17484235,NA,NA,NA,incorrect_code,108
+1748,Bezinkingssnelheid RBC (bloed) (ESR),1,1748,,Cultuur bij vermoeden kathetersepsis (bloed),extended,incorrect_code,108
+1748,Bezinkingssnelheid RBC,6,1748,,Cultuur bij vermoeden kathetersepsis (bloed),extended,incorrect_code,108
+,"Autoimmune Panel (e.g., ANA, RF)",2,,NA,NA,NA,no_code,"6002, 6091"
+1019,"Autoimmune Panel (e.g., ANA) (Antinucleaire antistoffen)",1,1019,,Vancomycine (na dialyse) (bloed),extended,incorrect_code,6002
+1019,"Autoimmune Panel (e.g., ANA)",1,1019,,Vancomycine (na dialyse) (bloed),extended,incorrect_code,6002
+NA,"Autoimmune Panel (e.g., ANA)",1,NA,NA,NA,NA,no_code,6002
+NA,Autoimmune Panel,1,NA,NA,NA,NA,not_in_menu,
+,Autoimmune Panel,1,,NA,NA,NA,not_in_menu,
+10146,Autoimmune Liver Disease Panel - possible detailed tests: 10146,1,10146,,MDI (diphenyl methaan diisocyanaat) k76 (bloed),extended,incorrect_code,6960
+,Autoimmune Liver Disease Panel,1,,NA,NA,NA,no_code,6960
+,Autoimmune Hepatitis Panel,3,,NA,NA,NA,no_code,6960
+,Autoantibodies (21-hydroxylase antibodies) (bloed),1,,NA,NA,NA,not_in_menu,
+,Anti-U1 RNP antibodies,1,,NA,NA,NA,not_in_menu,
+,Anti-Smith Antibody Test,1,,NA,NA,NA,not_in_menu,
+,Anti-Smith Antibody (bloed),2,,NA,NA,NA,not_in_menu,
+4607,Anti-Smith Antibody,1,4607,NA,NA,NA,not_in_menu,
+,Anti-Smith Antibody,6,,NA,NA,NA,not_in_menu,
+,Anti-Smith (Anti-Sm) Antibody,2,,NA,NA,NA,not_in_menu,
+,Anti-Smith (Anti-Sm) Antibodies,2,,NA,NA,NA,not_in_menu,
+,Anti-Smith (Anti-Sm) antibodies,1,,NA,NA,NA,not_in_menu,
+,Anti-Ro/SSA and Anti-La/SSB Antibodies (bloed),2,,NA,NA,NA,not_in_menu,
+,Anti-Ro/SSA and Anti-La/SSB Antibodies,2,,NA,NA,NA,not_in_menu,
+,Anti-Ro/SSA and Anti-La/SSB antibodies,1,,NA,NA,NA,not_in_menu,
+1019,Antinuclear Antibody (ANA) Test,1,1019,,Vancomycine (na dialyse) (bloed),extended,incorrect_code,6002
+,Antinuclear Antibody (ANA) test,1,,NA,NA,NA,no_code,6002
+1019,Antinucleaire antistoffen (ANA),5,1019,,Vancomycine (na dialyse) (bloed),extended,incorrect_code,6002
+,Anti-dsDNA Antibody Test,2,,NA,NA,NA,not_in_menu,
+,Anti-dsDNA Antibodies,1,,NA,NA,NA,not_in_menu,
+,Anti-dsDNA (bloed),2,,NA,NA,NA,not_in_menu,
+,Anti-dsDNA (Anti-double-stranded DNA),3,,NA,NA,NA,not_in_menu,
+,Anti-dsDNA,3,,NA,NA,NA,not_in_menu,
+,Anti-double-stranded DNA (Anti-dsDNA) Antibody,2,,NA,NA,NA,not_in_menu,
+,Anti-double-stranded DNA (Anti-dsDNA) Antibodies,2,,NA,NA,NA,not_in_menu,
+,Anti-double-stranded DNA (Anti-dsDNA) antibodies,1,,NA,NA,NA,not_in_menu,
+4602,Anti-double-stranded DNA (Anti-dsDNA),1,4602,NA,NA,NA,not_in_menu,
+,ANA (Antinuclear Antibody) Test,1,,NA,NA,NA,no_code,6002
+,ANA (Antinuclear Antibody) (bloed),2,,NA,NA,NA,no_code,6002
+,ANA (Antinuclear Antibody),2,,NA,NA,NA,no_code,6002
+NA,Abdominal ultrasound,1,NA,NA,NA,NA,not_lab,
+,Abdominal Ultrasound,7,,NA,NA,NA,not_lab,
+,Abdominal ultrasound,1,,NA,NA,NA,not_lab,
+21,21-Hydroxylase Antibodies,1,21,NA,NA,NA,not_in_menu,
