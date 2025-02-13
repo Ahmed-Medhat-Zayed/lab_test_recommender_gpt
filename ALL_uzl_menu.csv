@@ -1,0 +1,1260 @@
+category,test_code,uzl_test_name,menu
+HEMATOLOGY,"71, 72, 84, 80, 86","Complete bloedceltelling, incl. WBC differentiatie (bloed)",standard
+HEMATOLOGY,78,Reticulocyten telling (bloed),standard
+HEMATOLOGY,4213,Haptoglobine (bloed),standard
+HEMATOLOGY,4239,Hemoglobine vrij in plasma (bloed),standard
+BLOEDSTOLLINGSTESTS,7301,Protrombinetijd (PT) (bloed),standard
+BLOEDSTOLLINGSTESTS,7305,aPTT (bloed),standard
+BLOEDSTOLLINGSTESTS,7306,Fibrinogeen (bloed),standard
+BLOEDSTOLLINGSTESTS,7309,D-dimeren (bloed),standard
+IMMUNOHEMATOLOGIE,8201,Bloedgroep ABO en RhD,standard
+CHEMIE,4201,Natrium (bloed),standard
+CHEMIE,4202,Kalium (bloed),standard
+CHEMIE,4203,Chloride (bloed),standard
+CHEMIE,4204,Bicarbonaat (bloed),standard
+CHEMIE,4206,Ureum (bloed),standard
+CHEMIE,4207,Creatinine (bloed),standard
+CHEMIE,4215,Urinezuur (bloed),standard
+CHEMIE,4211,Eiwit totaal (bloed),standard
+CHEMIE,4212,Albumine (bloed),standard
+CHEMIE,4208,Calcium totaal (bloed),standard
+CHEMIE,4209,Fosfaat (bloed),standard
+CHEMIE,4205,Osmolaliteit (bloed),standard
+CHEMIE,292,Lactaat (bloed),standard
+CHEMIE,218,Glucose (bloed),standard
+CHEMIE,246,HbA1c (bloed),standard
+CHEMIE,4216,Alk. fosfatasen (bloed),standard
+CHEMIE,4217,AST (GOT) (bloed),standard
+CHEMIE,4218,ALT (GPT) (bloed),standard
+CHEMIE,4219,Gamma GT (bloed),standard
+CHEMIE,4221,Bilirubine totaal en direct (bloed),standard
+CHEMIE,132,Ammonia (bloed),standard
+CHEMIE,4222,CK (creatinekinase) totaal (bloed),standard
+CHEMIE,4236,Troponine T hs (bloed),standard
+CHEMIE,4223,CK MB (bloed),standard
+CHEMIE,4226,Lipasen (bloed),standard
+CHEMIE,4224,LDH (bloed),standard
+CHEMIE,4225,Amylasen (bloed),standard
+CHEMIE,4235,CRP (bloed),standard
+CHEMIE,4227,Cholesterol totaal (bloed),standard
+CHEMIE,4228,Triglyceriden (bloed),standard
+CHEMIE,4229,HDL+berek.LDL cholesterol (bloed),standard
+CHEMIE,4230,LDL cholesterol (bloed),standard
+CHEMIE,4690,Apolipoproteïnen A1+ B,standard
+CHEMIE,4662,Lipoproteïne Lp(a) (bloed),standard
+CHEMIE,4242,Kininase II (ACE) (bloed),standard
+CHEMIE,4237,NT-proBNP (bloed),standard
+CHEMIE,"4231, 4233",Ijzer en transferrine (incl. transferrine saturatie) (bloed),standard
+CHEMIE,4234,Ferritine (bloed),standard
+CHEMIE,4627,Vitamine B12 (bloed),standard
+CHEMIE,4628,Folaat (bloed),standard
+CHEMIE,5483,Eiwit elektroforese (bloed),standard
+CHEMIE,5644,Serumeiwitelektroforese met immunofixatie indien M-piek,standard
+CHEMIE,4210,Magnesium (bloed),standard
+CHEMIE,263,Koper (bloed),standard
+CHEMIE,4661,Ceruloplasmine (bloed),standard
+CHEMIE,265,Zink (bloed),standard
+CHEMIE,264,Lood (bloed),standard
+CHEMIE,4291,Lithium (bloed),standard
+CHEMIE,261,Aluminium (bloed),standard
+CHEMIE,4393,Vitamine A (bloed),standard
+CHEMIE,4394,Vitamine E (bloed),standard
+CHEMIE,568,Vitamine B1 (thiamine) (volbloed),standard
+CHEMIE,4285,Cholinesterasen (bloed),standard
+CHEMIE BLOEDGASANALYSER,"4362, 4377, 4376, 4380, 4374, 4375, 4379, 4378","Bloedgas panel (arterieel bloed) : pH, pCO2, pO2, glucose, lactaat, Na, K, Cl, iCa",standard
+CHEMIE BLOEDGASANALYSER,"4382, 4385, 4383, 4388, 4390, 4384, 4387, 4386","Bloedgas panel (veneus bloed) : pH, pCO2, pO2, glucose, lactaat, Na, K, Cl, iCa",standard
+TUMORMERKERS,4706,Alfa-foetoproteïne (tumormerker) (bloed),standard
+TUMORMERKERS,4702,CEA (bloed),standard
+TUMORMERKERS,4629,Neuron specific enolase (bloed),standard
+TUMORMERKERS,4710,PSA (follow-up therapie) (bloed),standard
+TUMORMERKERS,4716,PSA (screening man 40-50j familiaal antecedent) (bloed),standard
+TUMORMERKERS,4714,PSA (buiten RIZIV) (bloed),standard
+TUMORMERKERS,4701,hCG totaal (tumormerker) (bloed),standard
+TUMORMERKERS,4630,Squamous cell carcin. Ag (bloed),standard
+TUMORMERKERS,4708,CA 19-9 (pancreas) (bloed),standard
+TUMORMERKERS,4707,CA 125 (ovarium) (bloed),standard
+TUMORMERKERS,4709,CA 15-3 (borst) (bloed),standard
+TUMORMERKERS,947,Chromogranine A (bloed),standard
+TUMORMERKERS,4546,hCG totaal in CSV,standard
+URINESTAAL,"4402, 4431",Teststrook screening en microscopisch onderzoek (urinestaal),standard
+URINESTAAL,4413,Myoglobine vs. hemoglobine differentiatie (urine),standard
+URINESTAAL,4435,RBC morfologie (urinestaal),standard
+URINESTAAL,4438,Eosinofilie (urinestaal),standard
+URINESTAAL,5775,Eiwit elektroforese (urinestaal),standard
+URINESTAAL,4031,Alfa 1-microglobuline (urinestaal),standard
+URINESTAAL,4421,Reducerende suikers screening (urinestaal),standard
+URINESTAAL,4029,VMA (urinestaal),standard
+URINESTAAL,4030,HVA (urinestaal),standard
+URINESTAAL,4001,Creatinine (urinestaal),standard
+URINESTAAL,4010,Eiwit totaal (urinestaal),standard
+URINESTAAL,4003,Natrium (urinestaal),standard
+URINESTAAL,4004,Kalium (urinestaal),standard
+URINESTAAL,4006,Calcium (urinestaal),standard
+URINESTAAL,4007,Fosfaat (urinestaal),standard
+URINESTAAL,4009,Urinezuur (urinestaal),standard
+URINESTAAL,4008,Ureum (urinestaal),standard
+URINESTAAL,4012,Osmolaliteit (urinestaal),standard
+URINESTAAL,4020,Glucose (urinestaal),standard
+URINESTAAL,4014,Amylasen (urinestaal),standard
+URINESTAAL,4035,Amylasen/creat. klaring ratio,standard
+URINESTAAL,4082,Albumine/Creatinine ratio,standard
+URINEDEBIET,4042,Creatinine Klaring,standard
+URINEDEBIET,4041,Creatinine (urinedebiet),standard
+URINEDEBIET,4050,Eiwit totaal (urinedebiet),standard
+URINEDEBIET,4043,Natrium (urinedebiet),standard
+URINEDEBIET,4044,Kalium (urinedebiet),standard
+URINEDEBIET,4045,Chloride (urinedebiet),standard
+URINEDEBIET,4046,Calcium (urinedebiet),standard
+URINEDEBIET,4047,Fosfaat (urinedebiet),standard
+URINEDEBIET,4049,Urinezuur (urinedebiet),standard
+URINEDEBIET,4048,Ureum (urinedebiet),standard
+URINEDEBIET,4052,Osmolaliteit (urinedebiet),standard
+URINEDEBIET,4060,Glucose + ketonen (urinedebiet),standard
+URINEDEBIET,4051,Micro-albuminurie (urinedebiet) (24-uur collecte),standard
+URINEDEBIET,4160,Micro-albuminurie (urinedebiet) (dag-collecte),standard
+URINEDEBIET,4170,Micro-albuminurie (urinedebiet) (nacht-collecte),standard
+URINEDEBIET,4065,IJzer,standard
+URINEDEBIET,4064,Koper (urinedebiet),standard
+URINEDEBIET,4053,Magnesium (urinedebiet),standard
+URINEDEBIET,4066,Lood,standard
+URINEDEBIET,4063,Zink (urinedebiet),standard
+URINEDEBIET,4058,Oxalaat (urinedebiet),standard
+URINEDEBIET,4069,VMA (urinedebiet),standard
+URINEDEBIET,4070,HVA (urinedebiet),standard
+URINEDEBIET,4068,5-OH-indolazijnzuur (urinedebiet),standard
+OPSPOREN URINAIRE INFECTIES,1531,Cultuur (midstream urine),standard
+OPSPOREN URINAIRE INFECTIES,1772,Cultuur (urine uit suprapubische punctie),standard
+OPSPOREN URINAIRE INFECTIES,1774,Cultuur (urine uit verblijfsonde),standard
+FAECES,710,Microscop. onderzoek (o.a. vet) (faeces),standard
+FAECES,719,Occult bloed immunologisch (faeces),standard
+FAECES,5232,Reducerende suikers,standard
+CEREBROSPINAAL VOCHT,4461,Eiwit totaal (CSV),standard
+CEREBROSPINAAL VOCHT,4463,Glucose (CSV),standard
+CEREBROSPINAAL VOCHT,4465,Lactaat (CSV),standard
+CEREBROSPINAAL VOCHT,4475,WBC telling (CSV),standard
+CEREBROSPINAAL VOCHT,4476,WBC differentiatie (CSV),standard
+VARIA,5245,Xylosebelasting,standard
+VARIA,5212,Galzuren totaal (bloed),standard
+VARIA,7500,Chylomicronen (pleuravocht),standard
+VARIA,575,Serotonine (bloed),standard
+VARIA,4740,Iso-amylase,standard
+VARIA,5140,Iso-LDH,standard
+VARIA,5250,Zweettest,standard
+VARIA,747,Niersteenanalyse,standard
+VARIA,5213,Disaccharidasen in dundarmbiopt,standard
+VARIA,259,IJzer (leverbiopt),standard
+VARIA,266,Koper (leverbiopt),standard
+VARIA,277,Aluminium in dial.vocht,standard
+VARIA,278,Magnesium in dial.vocht,standard
+VARIA,7501,Xanthochromie in CSV,standard
+VARIA,5975,Calprotectine (faeces),standard
+SCHILDKLIER,4601,TSH (bloed),standard
+SCHILDKLIER,4612,Vrij T4 (bloed),standard
+SCHILDKLIER,4618,Thyroglobuline (Tg) (bloed),standard
+SCHILDKLIER,4620,ANTI-Thyroglobuline (Tg) (bloed),standard
+SCHILDKLIER,4639,Thyroglobuline punctievocht,standard
+SCHILDKLIER,973,Calcitonine (bloed),standard
+SCHILDKLIER,4127,Jodium totaal (urinestaal),standard
+SCHILDKLIER,4067,Jodium totaal (urinedebiet),standard
+SCHILDKLIER,4614,Vrij T3 (bloed),standard
+SCHILDKLIER,4616,reverse T3 (bloed),standard
+SCHILDKLIER,4606,T4 totaal + T-uptake (bloed),standard
+SCHILDKLIER,4610,T4 totaal + TBG (bloed),standard
+SCHILDKLIER,4635,T3 + T-uptake (bloed),standard
+SCHILDKLIER,4636,T3 + TBG (bloed),standard
+ZWANGERSCHAP,4720,hCG totaal (zwangere) (bloed),standard
+ZWANGERSCHAP,4721,Alfa-foetoproteïne (bij zwangere)(bloed),standard
+ZWANGERSCHAP,4784,Alfa-foetoproteïne (amniosvocht),standard
+GONADEN,4723,FSH (bloed),standard
+GONADEN,4722,LH (bloed),standard
+GONADEN,4727,Prolactine (bloed),standard
+GONADEN,5132,Prolactine 2x/uur (bloed),standard
+GONADEN,5110,Prolactine 4x/uur (bloed),standard
+GONADEN,932,Testosteron (bloed),standard
+GONADEN,935,SHBG (bloed),standard
+GONADEN,4725,Oestradiol (bloed),standard
+GONADEN,4726,Progesteron (bloed),standard
+GONADEN,4634,Oestron (LC-MS/MS) (bloed),standard
+GONADEN,976,Dihydrotestosteron,standard
+GONADEN,927,Anti-Mullerian hormoon (AMH) (bloed),standard
+GONADEN,924,Inhibine B,standard
+GONADEN,7452,Oestradiol Niet-reproductief (LC-MS/MS),standard
+GONADEN,7454,Testosteron (LC-MS/MS) (bloed),standard
+GLUCOSE-METABOLISME,902,Insuline nuchter (bloed),standard
+GLUCOSE-METABOLISME,903,Insuline niet nuchter (bloed),standard
+GLUCOSE-METABOLISME,917,C-peptide nuchter (bloed),standard
+GLUCOSE-METABOLISME,918,C-peptide niet nuchter (bloed),standard
+GLUCOSE-METABOLISME,938,Pro-insuline (bloed),standard
+MANNELIJKE FERTILITEIT SPERMA,8640,Tellen en mobiliteit (sperma),standard
+MANNELIJKE FERTILITEIT SPERMA,8651,Morfologisch onderzoek (sperma),standard
+MANNELIJKE FERTILITEIT SPERMA,8970,Capacitatietest (sperma),standard
+MANNELIJKE FERTILITEIT SPERMA,8664,"Directe Mar (IgG, IgA) (sperma)",standard
+MANNELIJKE FERTILITEIT SPERMA,8648,Fructose doseren (sperma),standard
+DYNAMISCHE TESTS,226,Glucose (t/m 120 min) OGTT na 75 g Glc (bloed),standard
+DYNAMISCHE TESTS,311,Insuline (t/m 120 min) OGTT na 75 g Glc (bloed),standard
+DYNAMISCHE TESTS,231,Glucose (t/m 180 min) OGTT na 75 g Glc (bloed),standard
+DYNAMISCHE TESTS,327,Insuline (t/m 180 min) OGTT na 75 g Glc (bloed),standard
+DYNAMISCHE TESTS,253,Glucose (na 60min) Challenge met 50g Glc (bloed),standard
+DYNAMISCHE TESTS,255,Glucose (t/m 120 min) OGTT na 75 g Glc bij zwangere (bloed),standard
+DYNAMISCHE TESTS,846,Cortisol na ACTH (Korte ACTH stimulatie) (bloed),standard
+DYNAMISCHE TESTS,850,Transcortine 0 min/8u (Korte ACTH) (bloed),standard
+DYNAMISCHE TESTS,841,Cortisol 8u (Bijniersuppressie na 1 mg dexa) (bloed),standard
+DYNAMISCHE TESTS,842,Transcortine 8u (Bijniersuppressie na 1mg dexa) (bloed),standard
+DYNAMISCHE TESTS,925,C-peptide voor & na glucagon (bloed),standard
+GROEIHORMOON,295,Groeihormoon om ... u (bloed),standard
+GROEIHORMOON,632,Groeihormoon nuchter (bloed),standard
+GROEIHORMOON,633,Groeihormoon niet nuchter (bloed),standard
+GROEIHORMOON,4619,IGF-1 (bloed),standard
+BIJNIER,812,Cortisol om ... u (bloed),standard
+BIJNIER,816,Transcortine (bloed),standard
+BIJNIER,691,ACTH om ... u (bloed),standard
+BIJNIER,4698,Aldosteron (bloed),standard
+BIJNIER,4699,Renine activiteit (bloed),standard
+BIJNIER,820,Cortisol ochtend 6-10u (bloed),standard
+BIJNIER,937,DHEAS (bloed),standard
+BIJNIER,936,Androsteendion (bloed),standard
+BIJNIER,934,17-hydroxyprogesteron (bloed),standard
+BIJNIER,4075,Vrij cortisol (urinedebiet),standard
+BIJNIER,4076,Aldosteron (urinedebiet),standard
+BIJNIER,4081,"Metanefrine, normetanefrine en 3-methoxytyramine (urinedebiet)",standard
+BIJNIER,4071,"Adrenaline, noradrenaline, dopamine (urinedebiet)",standard
+BIJNIER,830,Cortisol (speeksel),standard
+BOT- EN CALCIUMMETABOLISME,971,25-hydroxy vit. D (bloed),standard
+BOT- EN CALCIUMMETABOLISME,939,Parathormoon (PTH) 1-84 (bloed),standard
+BOT- EN CALCIUMMETABOLISME,942,beta-CTx (collageen degradatie) (bloed),standard
+BOT- EN CALCIUMMETABOLISME,960,N-terminaal procollageen type 1 propeptide (P1NP) (bloed),standard
+BOT- EN CALCIUMMETABOLISME,972,"1,25-dihydroxy vit. D (bloed)",standard
+BOT- EN CALCIUMMETABOLISME,7459,Fibroblast growth factor 23 (FGF-23),standard
+GASTRO-INTESTINALE HORMONEN,9101,Gastrine (bloed),standard
+GASTRO-INTESTINALE HORMONEN,9111,Glucagon (bloed),standard
+GASTRO-INTESTINALE HORMONEN,9116,VIP,standard
+VOCHTEN,5283,WBC telling (synoviaal vocht),standard
+VOCHTEN,5271,Glucose (synoviaal vocht),standard
+VOCHTEN,5282,WBC differentiatie (synoviaal vocht),standard
+VOCHTEN,5309,WBC telling (pleuravocht),standard
+VOCHTEN,5302,Glucose (pleuravocht),standard
+VOCHTEN,5301,Eiwit totaal (pleuravocht),standard
+VOCHTEN,5303,LDH (pleuravocht),standard
+VOCHTEN,5304,Amylasen (pleuravocht),standard
+VOCHTEN,5308,WBC differentiatie (pleuravocht),standard
+VOCHTEN,5329,WBC telling (peritoniaal vocht),standard
+VOCHTEN,5321,Eiwit totaal (peritoneaal vocht),standard
+VOCHTEN,5326,Albumine (peritoneaal vocht),standard
+VOCHTEN,5323,LDH (peritoneaal vocht),standard
+VOCHTEN,5324,Amylasen (peritoneaal vocht),standard
+VOCHTEN,5328,WBC differentiatie (peritoniaal vocht),standard
+GENEESMIDDELENDOSERING,4735,Digoxine (bloed),standard
+GENEESMIDDELENDOSERING,5012,Amiodarone,standard
+GENEESMIDDELENDOSERING,5130,Cyclosporine-A (dal) (bloed),standard
+GENEESMIDDELENDOSERING,5136,Tacrolimus (bloed),standard
+GENEESMIDDELENDOSERING,5080,Mycophenolaat (bloed),standard
+GENEESMIDDELENDOSERING,5081,Sirolimus (bloed),standard
+GENEESMIDDELENDOSERING,5131,Cyclosporine-A (C2) (bloed),standard
+GENEESMIDDELENDOSERING,5082,Everolimus (bloed),standard
+GENEESMIDDELENDOSERING,5077,Theofylline (bloed),standard
+GENEESMIDDELENDOSERING,5071,Fenobarbital (bloed),standard
+GENEESMIDDELENDOSERING,5072,Fenytoïne (bloed),standard
+GENEESMIDDELENDOSERING,5073,Carbamazepine (bloed),standard
+GENEESMIDDELENDOSERING,5074,Valproïnezuur (bloed),standard
+GENEESMIDDELENDOSERING,5026,Ethosuximide (bloed),standard
+GENEESMIDDELENDOSERING,5027,Clonazepam,standard
+GENEESMIDDELENDOSERING,5033,Lamotrigine (bloed),standard
+GENEESMIDDELENDOSERING,5127,Methotrexaat (bloed) - afname na 24 h,standard
+GENEESMIDDELENDOSERING,5128,Methotrexaat (bloed) - afname na 48 h,standard
+GENEESMIDDELENDOSERING,5129,Methotrexaat (bloed) - afname na 72 h,standard
+GENEESMIDDELENDOSERING,5126,Methotrexaat (bloed) - afname na xx h,standard
+GENEESMIDDELENDOSERING,6042,Infliximab,standard
+GENEESMIDDELENDOSERING,6063,Adalimumab bloedspiegel (incl. anti-adalimumab as indien van toepassing),standard
+GENEESMIDDELENDOSERING,6061,Vedolizumab bloedspiegel,standard
+,31,Enterovirus snelle PCR (STAT) (CSV),extended
+,40,Opzoeken van MRSA (neus/perineum),extended
+,41,Opzoeken VRE (rectale wisser),extended
+,44,Opzoeken Pseudomonas aeruginosa (stuit),extended
+,45,Respiratoir specimen Fungi (sputum),extended
+,46,Respiratoir specimen Fungi (bronchusasp.),extended
+,47,Respiratoir specimen Fungi (BAL),extended
+,49,Respiratoir specimen Fungi (Mucopatient),extended
+,50,Opzoeken Pseudomonas aeruginosa (wonde),extended
+,66,Punctievocht Fungi (lumbaalvocht),extended
+,67,Punctievocht Fungi (ventrikelvocht),extended
+,83,Cytologisch onderzoek (bloed),extended
+,108,Bezinkingssnelheid RBC (bloed),extended
+,112,Dermatofyten (huid),extended
+,113,Dermatofyten (haar),extended
+,114,Dermatofyten (nagel),extended
+,115,Dermatofyten (andere),extended
+,121,Pseudotrombopenie (bloed),extended
+,123,Fragmentocyten bepaling (bloed),extended
+,220,Glucose dagprofiel (bloed),extended
+,247,Glucose (t/m 180 min) OGTT na 100 g Glc (bloed),extended
+,248,Insuline (t/m 180 min) OGTT na 100 g Glc (zwangere) (bloed),extended
+,267,Glucose (Insulinetolerantietest) (bloed),extended
+,297,C-peptide om ... u (bloed),extended
+,312,C-peptide OGTT na 75g Glc (bloed),extended
+,313,Groeihormoon OGTT na 75g Glc (bloed),extended
+,370,ACTH (Insulinetolerantietest) (bloed),extended
+,380,Glucose (Glucagontest) (bloed),extended
+,405,TSH (t/m 60 min) TRH test (bloed),extended
+,471,Insuline om ... u (bloed),extended
+,546,Prolactine (t/m 60 min) TRH test (bloed),extended
+,547,Parathormoon (PTH) 1-84 bij Calciumstimulatietest (bloed),extended
+,561,Fosfaat bij Calciumstimulatietest (bloed),extended
+,570,Calcium bij Calciumstimulatietest (bloed),extended
+,576,Calcium geïoniseerd bij Calciumstimulatietest (bloed),extended
+,590,Groeihormoon na GHRH (bloed),extended
+,591,Groeihormoon na arginine (bloed),extended
+,592,Groeihormoon na GHRH en arginine (bloed),extended
+,634,Groeihormoon na inspanning (bloed),extended
+,651,Cortisol (Insulinetolerantietest)(bloed),extended
+,652,Groeihormoon (Insulinetolerantietest) (bloed),extended
+,653,Prolactine (Insulinetolerantietest) (bloed),extended
+,695,ACTH dagprofiel (bloed),extended
+,760,Kappa/Lambda (urinedebiet),extended
+,776,Immunofixatie onder behandeling wegens paraproteïnemie (bloed),extended
+,804,Groeihormoon dagprofiel (bloed),extended
+,815,Vrij Cortisol (bloed),extended
+,819,Cortisol dagprofiel (bloed),extended
+,823,Cortisol namiddag 16-20u (bloed),extended
+,826,Cortisolemie profiel (Bijniersuppressie na 2d 2mg dexa) (bloed),extended
+,833,ACTH profiel (Bijniersuppressie na 2d 2mg dexa) (bloed),extended
+,845,Cortisol na ACTH & dexa (Korte ACTH) (bloed),extended
+,852,SHBG 0 min (Korte ACTH) (bloed),extended
+,881,17-hydroxyprogesteron (Korte ACTH) (bloed),extended
+,882,Androsteendion (Korte ACTH stimulatie) (bloed),extended
+,883,Testosteron (Korte ACTH stimul.) (bloed),extended
+,884,DHEAS (Korte ACTH stimulatie) (bloed),extended
+,908,Insuline As (bloed),extended
+,909,Insuline dagprofiel (bloed),extended
+,919,C-peptide 1 u na maal (bloed),extended
+,940,Vrij testosterone (bloed),extended
+,980,"24,25-dihydroxy-vitamine D (bloed)",extended
+,1000,Gentamicine (DALWAARDE vóór toediening) (bloed),extended
+,1002,Gentamicine (vóór dialyse) (bloed),extended
+,1003,Gentamicine (na dialyse) (bloed),extended
+,1004,Tobramycine (DALWAARDE vóór toediening) (bloed),extended
+,1005,Tobramycine (PIEKWAARDE na toediening) (bloed),extended
+,1006,Tobramycine (vóór dialyse) (bloed),extended
+,1007,Tobramycine (na dialyse) (bloed),extended
+,1008,Amikacine (DALWAARDE vóór toediening) (bloed),extended
+,1009,Amikacine (PIEKWAARDE na toediening) (bloed),extended
+,1010,Amikacine (vóór dialyse) (bloed),extended
+,1011,Amikacine (na dialyse) (bloed),extended
+,1012,Tobramycine (DALWAARDE bij mucopatiënt) (bloed),extended
+,1013,Tobramycine (PIEKWAARDE bij mucopatiënt) (bloed),extended
+,1016,Vancomycine (DALWAARDE vóór toediening) (bloed),extended
+,1018,Vancomycine (vóór dialyse) (bloed),extended
+,1019,Vancomycine (na dialyse) (bloed),extended
+,1024,Vancomycine (continu infuus) (bloed),extended
+,1027,Voriconazol (DALWAARDE vóór toediening) (bloed),extended
+,1028,Isavuconazole (DALWAARDE vóór toediening) (bloed),extended
+,1029,Fluconazole (DALWAARDE vóór toediening) (bloed),extended
+,1030,Posaconazole (DALWAARDE vóór toediening) (bloed),extended
+,1031,Itraconazole (DALWAARDE vóór toediening) (bloed),extended
+,1050,Positieve cultuur met mycobacteriën? (diversen),extended
+,1051,Positieve cultuur met mycobacteriën? (sputum),extended
+,1052,Positieve cultuur met mycobacteriën? (bronchusasp.),extended
+,1053,Positieve cultuur met mycobacteriën? (BAL),extended
+,1055,Gevoeligheidsbepaling EM gekweekte fungus,extended
+,1056,Identificatie EM gekweekte fungus,extended
+,1246,HbA1c pediatrie STAT (bloed),extended
+,1501,Mycobacterium tuberculosis PCR (sputum),extended
+,1502,Mycobacterium tuberculosis PCR (bronchusaspiraat),extended
+,1503,Mycobacterium tuberculosis PCR (bronchuslavage/BAL),extended
+,1504,Respiratoir panel (bronchus- of endotracheaal asp.),extended
+,1520,Pneumocystis jiroveci PCR (bronchus- of endotracheaal asp.) (REF. LAB),extended
+,1525,Mycobacterium tuberculosis PCR (diversen),extended
+,1526,Mycobacterium tuberculosis PCR (resp.specimen) (Mucopatiënt),extended
+,1528,Mycoplasma pneumoniae PCR (diversen),extended
+,1554,Cryptosporidium opsporen (faeces),extended
+,1581,Mycobacterium tuberculosis/Rifampicine: snelle PCR (sputum),extended
+,1582,Mycobacterium tuberculosis/Rifampicine: snelle PCR (bronchusaspiraat),extended
+,1583,Mycobacterium tuberculosis/Rifampicine: snelle PCR (bronchuslavage/BAL),extended
+,1585,Mycobacterium tuberculosis/Rifampicine: snelle PCR (diversen),extended
+,1637,Aspergillus antigeen (CSV),extended
+,1638,Aspergillus antigeen (bloed),extended
+,1639,Aspergillus antigeen (BAL),extended
+,1717,Cryptococcus antigeen (CSV),extended
+,1719,Streptococcus pneumoniae Ag detectie (pleuravocht),extended
+,1720,Cultuur (urine via punctie nier),extended
+,1721,Cultuur (urine op uricult),extended
+,1730,Opzoeken van Helicobacter pylori in maagbiopt,extended
+,1731,Cryptococcus antigeen (bloed),extended
+,1736,Clostridioides difficile toxine (faeces),extended
+,1737,Cultuur (sonicatie),extended
+,1748,Cultuur bij vermoeden kathetersepsis (bloed),extended
+,1749,Cultuur bij vermoeden kathetersepsis bij pediatrische patiënten (bloed),extended
+,1750,Cultuur bij vermoeden bacteriëmie/fungemie (bloed),extended
+,1751,Cultuur bij vermoeden bacteriëmie/fungemie bij pediatrische patiënten (bloed),extended
+,1752,Cultuur bij vermoeden endocarditis (bloed),extended
+,1753,Cultuur bij vermoeden endocarditis bij pediatrische patiënten (bloed),extended
+,1754,Respiratoir specimen cultuur (sputum),extended
+,1755,Respirat. specimen cultuur (bronchusasp),extended
+,1756,Respiratoir specimen cultuur (BAL),extended
+,1757,Legionella kweek (BAL),extended
+,1758,Respirat. specimen cultuur sinus (Mucopatient),extended
+,1759,Respirat. specimen cultuur (Mucopatient),extended
+,1760,Pneumocystis jiroveci PCR (BAL) (REF. LAB),extended
+,1763,NKO-Oftalmologie Cultuur(keel/mondholte),extended
+,1764,NKO-Oftalmologie Cultuur (neus/asp.),extended
+,1765,NKO-Oftalmologie Cultuur (oor),extended
+,1766,NKO-Oftalmologie Cultuur (sinus),extended
+,1767,NKO-Oftalmologie Cultuur (oog),extended
+,1770,Trilhaaronderzoek,extended
+,1777,Prostaatvocht cultuur (EPS),extended
+,1779,Cultuur (urine via intermittente katheterisatie),extended
+,1780,Genitale monsters Cultuur (vagina),extended
+,1781,Genitale monsters Cultuur (cervix),extended
+,1782,Genitale monsters Cultuur (urethra),extended
+,1783,Genitale monsters Cultuur (sperma),extended
+,1784,Cultuur Streptococcus agalactiae (vagino-rectale wisser),extended
+,1786,Cultuur (etter op cathetertip in bloedbaan),extended
+,1788,Cultuur (etter op ander materiaal),extended
+,1790,Weefsel/biopten Cultuur,extended
+,1797,Cultuur (etter uit redonvocht),extended
+,1800,Cultuur (etter uit drainage/wondvocht),extended
+,1802,Cultuur (diabetische voet),extended
+,1805,Punctievocht Cultuur (lumbaalvocht),extended
+,1806,Punctievocht Cultuur (ventrikelvocht),extended
+,1807,Punctievocht Cultuur (pleuravocht),extended
+,1808,Punctievocht Cultuur (pericardvocht),extended
+,1809,Punctievocht Cultuur (gewrichtsvocht),extended
+,1810,Punctievocht Cultuur (ander punctiev.),extended
+,1811,Punctievocht Cultuur (ascites/peritoneaalvocht),extended
+,1820,Cultuur (faeces),extended
+,1824,Cultuur (andere monsters),extended
+,1828,Respirat. specimen mycobacteriën (Mucopatiënt),extended
+,1830,Mycobacteriën (BK) (sputum),extended
+,1831,Mycobacteriën (BK) (maagvocht),extended
+,1832,Mycobacteriën (BK) (urine),extended
+,1833,Mycobacteriën (BK) (lumbaalvocht),extended
+,1834,Mycobacteriën (BK) (faeces),extended
+,1835,Mycobacteriën (BK) (andere monsters),extended
+,1836,Mycobacteriën (BK) (BAL),extended
+,1839,Selectieve antimicrobiële modulatie + Fungi (maagvocht),extended
+,1840,Selectieve antimicrobiële modulatie + Fungi (faeces/lies/perineum),extended
+,1842,Selectieve antimicrobiële modulatie + Fungi (neus),extended
+,1843,Kweek van Fungi (urine),extended
+,1845,Parasieten opsporen (faeces),extended
+,1846,Parasieten opsporen (gal/duodenumvocht),extended
+,1847,Parasieten opsporen (andere monsters),extended
+,1848,Malaria opzoeken in bloed (dikdruppel + antigeen),extended
+,2002,Hepatitis A virus IgG (bloed),extended
+,2003,Hepatitis A virus IgM (bloed),extended
+,2006,Hepatitis B virus surface antigeen (bloed),extended
+,2007,Hepatitis B virus surface Ag confirmatie (bloed),extended
+,2008,Hepatitis B virus surface antistoffen (bloed),extended
+,2009,Hepatitis B virus core antistof. (bloed),extended
+,2010,Hepatitis B virus e Ag (bloed),extended
+,2011,Hepatitis B virus e As (bloed),extended
+,2012,Hepatitis B PCR bij HBsAg positieve patiënt in opvolging behandeling (bloed),extended
+,2017,Hepatitis C virus antistoffen (bloed),extended
+,2019,Hepatitis C virus antistoffen confirmatie (bloed),extended
+,2022,Hepatitis E virus antistoffen (bloed),extended
+,2024,Hepatitis B PCR bij HBsAg positieve patiënt vóór start behandeling (bloed),extended
+,2025,HIV Ag/Ab (bloed),extended
+,2026,HTLV-I & II antistoffen (bloed),extended
+,2027,HTLV confirmatie antistoffen (bloed),extended
+,2028,HIV confirmatie (bloed),extended
+,2030,Hepatitis C virus genotypering bij start therapie (bloed),extended
+,2037,Adenovirus PCR (wisser oog),extended
+,2039,Hepatitis B PCR bij HBsAg positieve patiënt bij heropflakkering hepatitis (bloed),extended
+,2040,Hepatitis C PCR bij kind van HCV positieve moeder (bloed),extended
+,2041,Hepatitis C PCR bij HCV As positieve patiënt (bloed),extended
+,2042,Hepatitis C PCR bij immuungecompromitteerden (bloed),extended
+,2043,Hepatitis C PCR bij prikaccident met HCV positieve persoon (bloed),extended
+,2046,Hepatitis C PCR in start / opvolging behandeling (bloed),extended
+,2051,Vitamine B6 (pyridoxaalfosfaat) (volbloed),extended
+,2072,"Cytomegalovirus IgG (zwanger, vermoeden acute infectie) (bloed)",extended
+,2074,"Cytomegalovirus IgM (zwanger, vermoeden acute infectie) (bloed)",extended
+,2077,Toxoplasma IgG (screening zwangerschap) (bloed),extended
+,2079,Toxoplasma IgM (screening zwangerschap) (bloed),extended
+,2082,Cytomegalovirus IgG (niet zwanger) (bloed),extended
+,2084,Cytomegalovirus IgM (niet zwanger) (bloed),extended
+,2085,Cytomegalovirus IgG aviditeit (bloed),extended
+,2087,Toxoplasma IgG (vermoeden infectie) (bloed),extended
+,2089,Toxoplasma IgM (vermoeden infectie) (bloed),extended
+,2092,"Cytomegalovirus IgG (zwanger, screening) (bloed)",extended
+,2094,"Cytomegalovirus IgM (zwanger, screening) (bloed)",extended
+,2095,Rubellavirus IgG (bloed),extended
+,2098,Rubellavirus IgM (bloed),extended
+,2105,Toxoplasma IgG aviditeit (bloed),extended
+,2120,Herpes simplex virus PCR (biopsie),extended
+,2121,Varicella-zostervirus PCR (biopsie),extended
+,2122,Cytomegalovirus PCR (biopsie),extended
+,2123,Epstein-Barrvirus PCR (biopsie),extended
+,2124,Adenovirus PCR (biopsie),extended
+,2125,Polyomavirus JC/BK PCR (biopsie),extended
+,2126,Toxoplasma gondii PCR (biopsie),extended
+,2127,Humaan Herpesvirus type 6 PCR (biopsie),extended
+,2224,Pseudomonas IgG (bloed),extended
+,2238,Humaan Herpesvirus type 6 PCR (bloed),extended
+,2244,Coxsackievirus B1-B6 (bloed) (EM),extended
+,2280,SARS-CoV-2 IgG anti-N (bloed),extended
+,2281,SARS-CoV-2 IgG anti-S (bloed),extended
+,2282,Bofvirus IgG (bloed),extended
+,2284,Bofvirus IgM (bloed),extended
+,2285,Herpes simplex virus IgG (bloed),extended
+,2287,Herpes simplex virus IgM (bloed),extended
+,2288,Mazelenvirus IgG (bloed),extended
+,2290,Mazelenvirus IgM (bloed),extended
+,2291,Varicella-zostervirus IgG (bloed),extended
+,2293,Varicella-zostervirus IgM (bloed),extended
+,2300,Epstein-Barrvirus EBNA-1 IgG (bloed),extended
+,2303,Parvovirus B19 IgG (bloed),extended
+,2304,Parvovirus B19 IgM (bloed),extended
+,2312,Dengue virus IgG (bloed),extended
+,2313,Dengue virus IgM (bloed),extended
+,2315,Borrelia antistoffen (bloed),extended
+,2318,Borrelia confirmatie IgG (bloed),extended
+,2319,Borrelia confirmatie IgM (bloed),extended
+,2321,Hepatitis B PCR bij andere/onbekende indicatie (bloed),extended
+,2323,Hepatitis C PCR bij andere/onbekende indicatie (bloed) (EM),extended
+,2324,Hepatitis C virus genotypering bij andere/onbekende indicatie (bloed),extended
+,2325,Herpes simplex virus PCR bij andere/onbekende indicatie (oog: vitreum/voorkamervocht),extended
+,2327,Herpes simplex virus PCR bij andere/onbekende indicatie (CSV),extended
+,2329,Herpes simplex virus PCR bij andere/onbekende indicatie (diverse),extended
+,2330,Toxoplasma gondii PCR bij andere/onbekende indicatie (oog: vitreum/voorkamervocht),extended
+,2331,Toxoplasma gondii PCR bij andere/onbekende indicatie (CSV),extended
+,2332,Toxoplasma gondii PCR bij andere/onbekende indicatie (amniosvocht),extended
+,2333,Toxoplasma gondii PCR bij andere/onbekende indicatie (bloed),extended
+,2334,Toxoplasma gondii PCR bij andere/onbekende indicatie (diversen),extended
+,2335,Toxoplasma gondii PCR bij andere/onbekende indicatie (wisser oog),extended
+,2336,Varicella-zostervirus PCR bij andere/onbekende indicatie (oog: vitreum/voorkamervocht),extended
+,2337,Varicella-zostervirus PCR bij andere/onbekende indicatie (wisser oog),extended
+,2338,Varicella-zostervirus PCR bij andere/onbekende indicatie (CSV),extended
+,2339,Enterovirus PCR bij andere/onbekende indicatie (diverse vochten),extended
+,2340,Enterovirus PCR bij andere/onbekende indicatie (CSV),extended
+,2343,Herpes simplex virus PCR bij andere/onbekende indicatie (wisser genitaal),extended
+,2344,Herpes simplex virus PCR bij andere/onbekende indicatie (wisser huidletsel),extended
+,2345,Herpes simplex virus PCR bij andere/onbekende indicatie (wisser mond),extended
+,2347,Herpes simplex virus PCR (wisser oog),extended
+,2373,Hantavirus IgG (bloed),extended
+,2374,Hantavirus IgM (bloed),extended
+,2378,HTLV-I & II confirmatie antistoffen (CSV),extended
+,2384,Sneltest Puumala virus IgM (hantavirus) (bloed),extended
+,2399,Hepatitis B virus core IgM (bloed),extended
+,2403,HIV-1 viral load follow-up (bloed),extended
+,2404,HIV-1 viral load baseline (bloed),extended
+,2405,HIV-1 resistentie standaard (bloed),extended
+,2407,HIV-1 resistentie integrase (bloed),extended
+,2409,HIV-1 resistentie co-receptor (v3) (bloed),extended
+,2411,HIV-1 resistentie fusie (gp41) (bloed),extended
+,2418,HIV-1 viral load (sperma),extended
+,2434,Borrelia antistoffen (CSV),extended
+,2437,Borrelia confirmatie IgG (CSV),extended
+,2438,Borrelia confirmatie IgM (CSV),extended
+,2439,Borrelia: CXCL13 biomerker EM (CSV),extended
+,2450,Treponema pallidum (syphilis) antistoffen (bloed),extended
+,2452,Herpes simplex virus PCR (alleen voor neonati) (bloed),extended
+,2458,Cytomegalovirus PCR (wisser oog),extended
+,2461,Cytomegalovirus PCR bij immuungecompromitteerden (bloed),extended
+,2463,HIV-1 PCR kwalitatief (bloed),extended
+,2464,HTLV PCR (bloed),extended
+,2467,Cytomegalovirus PCR (bloedspot - Guthrie),extended
+,2489,Toxoplasma gondii PCR bij immuungecompromitteerden (CSV),extended
+,2491,Enterovirus PCR (diverse vochten),extended
+,2492,Toxoplasma gondii PCR (diversen),extended
+,2493,Toxoplasma gondii PCR bij immuungecompromitteerden cerebrale toxoplasmose (bloed),extended
+,2494,Toxoplasma gondii PCR bij positieve serologie (amniosvocht),extended
+,2495,Toxoplasma gondii PCR bij foetaal lijden (CSV),extended
+,2498,Herpes simplex virus PCR (CSV),extended
+,2499,Varicella-zostervirus PCR (CSV),extended
+,2502,HIV-1 viral load (CSV),extended
+,2503,HTLV PCR (CSV),extended
+,2504,Enterovirus PCR (CSV),extended
+,2512,Cytomegalovirus PCR (urine),extended
+,2528,MERS coronavirus PCR (bronchus- of endotracheaal asp.) (REF.LAB),extended
+,2531,Herpes simplex virus kweek (wisser oog),extended
+,2532,Toxoplasma gondii PCR (wisser oog),extended
+,2534,Respiratoir panel (bovenste luchtwegen),extended
+,2563,MERS coronavirus PCR (bovenste luchtwegen) (REF.LAB),extended
+,2617,Mycoplasma species PCR (celcultuurmedium),extended
+,2619,Humaan papillomavirus genotypering (genitaal specimen),extended
+,2620,Coronavirus SARS/COVID-19 PCR (BAL),extended
+,2621,Coronavirus SARS/COVID-19 PCR (bovenste luchtwegen),extended
+,2622,Coronavirus SARS/COVID-19 PCR (bronchus- of endotracheaal asp.),extended
+,2624,Coronavirus SARS-CoV-2 whole genome sequencing (RNA extract),extended
+,2626,Humaan Herpesvirus type 6 PCR (diverse vochten),extended
+,2628,Humaan Herpesvirus type 6 PCR (CSV),extended
+,2636,Toxoplasma gondii PCR bij bewezen seroconversie (amniosvocht),extended
+,2638,Coronavirus SARS-CoV-2 whole genome sequencing (bovenste luchtwegen),extended
+,2639,Coronavirus SARS-CoV-2 whole genome sequencing (BAL),extended
+,2640,Coronavirus SARS-CoV-2 whole genome sequencing (bronchus- of endotracheaal aspiraat),extended
+,2641,Respiratoir mini panel (BAL),extended
+,2642,Respiratoir mini panel (bovenste luchtwegen),extended
+,2643,Respiratoir mini panel (bronchus- of endotracheaal asp.),extended
+,2661,Herpes simplex virus PCR (oog: vitreum/voorkamervocht),extended
+,2662,Toxoplasma gondii PCR (oog: vitreum/voorkamervocht),extended
+,2663,Varicella-zostervirus PCR (oog: vitreum/voorkamervocht),extended
+,2763,NKO-Oftalmologie Fungi (keel/mondholte),extended
+,2764,NKO-Oftalmologie Fungi (neus/asp.),extended
+,2765,NKO-Oftalmologie Fungi (oor),extended
+,2766,NKO-Oftalmologie Fungi (sinus),extended
+,2767,NKO-Oftalmologie Fungi (oog),extended
+,2777,Prostaatvocht Fungi (EPS),extended
+,2780,Genitale monsters Fungi (vagina),extended
+,2781,Genitale monsters Fungi (cervix),extended
+,2790,Weefsel/biopten Fungi,extended
+,2797,Fungi (etter uit redonvocht),extended
+,2800,Fungi (etter uit drainage/wondvocht),extended
+,2802,Fungi (diabetische voet),extended
+,2807,Punctievocht Fungi (pleuravocht),extended
+,2808,Punctievocht Fungi (pericardvocht),extended
+,2809,Punctievocht Fungi (gewrichtsvocht),extended
+,2810,Punctievocht Fungi (ander punctievocht),extended
+,2811,Punctievocht Fungi (ascites/peritoneaal),extended
+,2824,Fungi (andere monsters),extended
+,2825,Legionella sneltest (urine),extended
+,2835,Mycobacteriën (BK) (bronchusaspiraat),extended
+,2965,Copeptine,extended
+,3262,BCR::ABL1 IS p210 moleculaire respons (BM),extended
+,3263,BCR::ABL1 IS p210 moleculaire respons (bloed),extended
+,4005,Chloride (urinestaal),extended
+,4015,Aminozuren (urine) incl. uitsluiten sulfiet oxidase deficiëntie,extended
+,4016,Aminozuren (urine),extended
+,4017,Organische zuren (urinestaal),extended
+,4021,Oligosacchariden (urine),extended
+,4022,Mucopolysacchariden (urine),extended
+,4032,Purinen en pyrimidinen (urine),extended
+,4033,Citroenzuur (urinestaal),extended
+,4073,Citroenzuur (urinedebiet),extended
+,4078,Vrij cortisol (24u urine) (Bijniersuppressie na 2d 2mg dexa),extended
+,4098,"Metanefrine, normetanefrine en 3-methoxytyramine (urinestaal)",extended
+,4116,Oxalaat (urinestaal),extended
+,4117,"Adrenaline, noradrenaline, dopamine (urinestaal)",extended
+,4118,5-OH-indolazijnzuur (urinestaal),extended
+,4185,Immunofixatie (urinedebiet),extended
+,4195,Polyolen (urine),extended
+,4197,Siaalzuur (urine),extended
+,4220,Bilirubine totaal (bloed),extended
+,4282,Macro Alk. fosfatasen (bloed),extended
+,4283,Macro ALT (GPT) (bloed),extended
+,4284,Macro AST (GOT) (bloed),extended
+,4286,Macro Amylasen (bloed),extended
+,4287,Macro Lipasen (bloed),extended
+,4288,Macro CK (creatinekinase) totaal (bloed),extended
+,4289,Macro Gamma GT (bloed),extended
+,4290,Macro LDH (bloed),extended
+,4372,Methemoglobine (volbloed: arterieel),extended
+,4373,Sulfhemoglobine (volbloed: arterieel),extended
+,4381,Carboxyhemoglobine (volbloed: arterieel),extended
+,4389,Carboxyhemoglobine (volbloed: veneus),extended
+,4391,Methemoglobine (volbloed: veneus),extended
+,4392,Sulfhemoglobine (volbloed: veneus),extended
+,4408,Eiwit/Creatinine Ratio (urine),extended
+,4425,Reducerende suikers confirmatie (urine) (EM),extended
+,4467,Lactaat / Pyruvaat (CSV),extended
+,4477,Cytologische screening hematologische maligniteit (CSV),extended
+,4502,Aminozuren (CSV),extended
+,4515,IgG (CSV),extended
+,4517,Albumine (CSV),extended
+,4523,Albumine index (CSV),extended
+,4524,IgG index (CSV),extended
+,4525,Oligoklonale banden (CSV),extended
+,4541,Antivirale resistentiebepaling (cerebrospinaal vocht),extended
+,4565,Antivirale resistentiebepaling (isolaat virale celkweek),extended
+,4566,Antivirale resistentiebepaling (diversen),extended
+,4571,Antivirale resistentiebepaling (wisser huidletsel),extended
+,4572,Antivirale resistentiebepaling (cornea),extended
+,4622,TSH-receptor (bloed),extended
+,4624,Thyroïd peroxidase (TPO) (bloed),extended
+,4626,FDH-test (bloed),extended
+,4651,Prealbumine (bloed),extended
+,4654,Alfa 1-antitrypsine (bloed),extended
+,4655,Alfa 1-zuur glycoproteïne (bloed),extended
+,4656,Alfa 2-macroglobuline (bloed),extended
+,4658,Beta 2-microglobuline (bloed),extended
+,4676,Klassieke complement pathway (activiteit),extended
+,4679,C1 inhibitor kwantitatief (bloed),extended
+,4680,C1q (bloed),extended
+,4682,C5 (bloed),extended
+,4683,C2 (bloed),extended
+,4691,Apolipoproteine A1 (bloed),extended
+,4692,Apolipoproteine B (bloed),extended
+,4696,C3 d (bloed),extended
+,4697,C1 inhibitor functioneel (bloed),extended
+,4730,ratio sFLT-1/PlGF,extended
+,4999,Antivirale resistentiebepaling (bloed),extended
+,5029,Levetiracetam (bloed),extended
+,5032,Oxcarbazepine (bloed),extended
+,5034,Brivaracetam (bloed),extended
+,5035,Carbamazepine-epoxide (bloed),extended
+,5036,Perampanel (bloed),extended
+,5037,PEMA (primidone-metaboliet) (bloed),extended
+,5038,Rufinamide (bloed),extended
+,5039,Tiagabine (bloed),extended
+,5040,Zonisamide (bloed),extended
+,5150,LH & FSH (GnRH test) (bloed),extended
+,5170,TSH (t/m 120 min) TRH test (bloed),extended
+,5171,Prolactine (t/m 120 min) TRH test (bloed),extended
+,5172,Groeihormoon (t/m 120 min) TRH test (bloed),extended
+,5201,Piperidine-6-carboxylate (P6C) (plasma),extended
+,5202,Galactose-1-P-Uridyl transferase (RBC) (bloed),extended
+,5203,3-Hydroxybutyraat / acetoacetaat (volbloed),extended
+,5206,Lactaat / pyruvaat (volbloed),extended
+,5211,Arylsulfatase A (serum),extended
+,5219,Acylcarnitine differentiatie (plasma),extended
+,5220,D-Lactaat (plasma),extended
+,5222,Pipecolinezuur (plasma),extended
+,5223,Vrij carnitine (urinestaal),extended
+,5224,Aminozuren (plasma),extended
+,5225,Benzoaat (bloed),extended
+,5226,Extra-lange-keten vetzuren (C22-C26) (bloed),extended
+,5229,Acylcarnitine differentiatie (Guthrie),extended
+,5240,Transferrine glycosylatie typering voor CDG (bloed),extended
+,5257,LKM (bloed),extended
+,5322,Glucose (peritoneaal vocht),extended
+,5331,WBC telling (amniosvocht),extended
+,5333,WBC differentiatie (amniosvocht),extended
+,5335,WBC telling (pericardvocht),extended
+,5337,WBC differentiatie (pericardvocht),extended
+,5344,WBC telling (punctievocht),extended
+,5348,Natrium (diverse vochten),extended
+,5349,Kalium (diverse vochten),extended
+,5350,Chloride (diverse vochten),extended
+,5351,Bicarbonaat (diverse vochten),extended
+,5352,Totaal eiwit (diverse vochten),extended
+,5353,Osmolaliteit (diverse vochten),extended
+,5354,Ureum (diverse vochten),extended
+,5355,Creatinine (diverse vochten),extended
+,5356,Urinezuur (diverse vochten),extended
+,5357,Albumine (diverse vochten),extended
+,5358,LDH (diverse vochten),extended
+,5359,Amylasen (diverse vochten),extended
+,5360,Lipasen (diverse vochten),extended
+,5361,Bilirubine totaal (diverse vochten),extended
+,5362,Alkalische fosfatasen (diverse vochten),extended
+,5363,AST (diverse vochten),extended
+,5364,ALT (diverse vochten),extended
+,5365,Gamma GT (diverse vochten),extended
+,5366,Glucose (diverse vochten),extended
+,5369,CRP (diverse vochten),extended
+,5371,Lactaat (diverse vochten),extended
+,5373,pH (diverse vochten),extended
+,5375,Calcium (diverse vochten),extended
+,5376,Fosfaat (diverse vochten),extended
+,5377,Magnesium (diverse vochten),extended
+,5380,AUC Mycophenolaat (bloed),extended
+,5394,Ureum (peritoneaal dialysaat),extended
+,5395,Creatinine (peritoneaal dialysaat),extended
+,5396,Volume (peritoneaal dialysaat),extended
+,5398,Mycoplasma pneumoniae PCR na Tx (BAL),extended
+,5415,Cystatine C (bloed),extended
+,5420,hs-CRP (bloed),extended
+,5422,Kappa/Lambda (urinestaal),extended
+,5423,Lambda (urinestaal),extended
+,5438,Immunofixatie (urinestaal),extended
+,5462,IgG (bloed),extended
+,5464,IgG1 (bloed),extended
+,5465,IgG2 (bloed),extended
+,5466,IgG3 (bloed),extended
+,5467,IgG4 (bloed),extended
+,5468,IgA (bloed),extended
+,5469,IgM (bloed),extended
+,5470,IgD (bloed),extended
+,5474,C3 (bloed),extended
+,5475,C4 (bloed),extended
+,5486,Epstein-Barrvirus PCR seronegatieve pat - 2e + 3e jaar na Tx (bloed),extended
+,5490,"Cytomegalovirus PCR geen profylaxe, 2e + 3e jaar na Tx (bloed)",extended
+,5542,Polyomavirus JC/BK PCR na Nier Tx 3e jaar (bloed),extended
+,5561,"Cytomegalovirus PCR profylaxe, tot 3 jaar na Tx (bloed)",extended
+,5601,Respiratoir panel (BAL),extended
+,5602,Gastro-intestinaal panel (faeces),extended
+,5603,MERS coronavirus PCR (BAL) (REF.LAB),extended
+,5605,Meningitis/encefalitis panel,extended
+,5610,"Cytomegalovirus PCR geen profylaxe, 1e jaar na Tx (bloed)",extended
+,5618,Epstein-Barrvirus PCR seronegatieve pat - 1e jaar na Tx (bloed),extended
+,5620,C. trachomatis / N. gonnorrhoeae (screening) (wisser oog),extended
+,5624,C. trachomatis / N. gonnorrhoeae (screening) (wisser genitaal),extended
+,5627,C. trachomatis / N. gonnorrhoeae (screening) (urine),extended
+,5632,Polyomavirus JC/BK PCR na Nier Tx 1e + 2e jaar (bloed),extended
+,5640,Norovirus PCR (faeces),extended
+,5641,Rotavirus antigen (faeces),extended
+,5642,Enterovirus kweek (faeces),extended
+,5643,Adenovirus (types 40-41) antigen (faeces),extended
+,5650,Adenovirus PCR na Lever Tx (bloed),extended
+,5651,Herpes simplex virus kweek (wisser genitaal),extended
+,5653,Hoog risico HPV PCR inclusief typering 16/18/45 preventief (genitaal specimen),extended
+,5654,Hoog risico HPV PCR inclusief typering 16/18/45 diagnost/therapeutisch (genitaal specimen),extended
+,5655,Hoog risico HPV PCR inclusief typering 16/18/45 bij andere/onbekende indicatie (genitaal specimen),extended
+,5660,Varicella-zostervirus PCR na stamcel Tx (bloed),extended
+,5662,Enterovirus kweek (wisser oog),extended
+,5664,Varicella-zostervirus PCR (wisser oog),extended
+,5667,Polyomavirus JC/BK PCR na stamcel Tx (bloed),extended
+,5668,Humaan papillomavirus genotypering (biopsie),extended
+,5672,Cytomegalovirus PCR (BAL) EM,extended
+,5682,Respiratoir panel na Tx (BAL),extended
+,5683,Adenovirus PCR na stamcel Tx (bloed),extended
+,5684,Cytomegalovirus PCR na stamcel Tx (bloed),extended
+,5685,Epstein-Barrvirus PCR na stamcel Tx (bloed),extended
+,5686,Hepatitis B PCR na stamcel Tx (bloed),extended
+,5687,Hepatitis C PCR na stamcel Tx (bloed),extended
+,5688,Herpes simplex virus PCR na stamcel Tx (bloed),extended
+,5689,Humaan Herpesvirus type 6 PCR na stamcel Tx (bloed),extended
+,5690,Herpes simplex virus PCR bij immuungecompromitteerde patiënten met laesies (diversen),extended
+,5700,SOA mini panel (symptomen) (urine),extended
+,5704,SOA mini panel (symptomen) (wisser genitaal),extended
+,5714,"Respiratoir panel (bovenste luchtwegen) (EM), voldaan art 24 bis",extended
+,5715,"Respiratoir panel (BAL) (EM) , voldaan art 24 bis",extended
+,5716,"Respiratoir panel (bronchus- of endotracheaal asp.) (EM) , voldaan art 24 bis",extended
+,5721,Herpes simplex virus kweek (wisser huid),extended
+,5723,Enterovirus kweek (wisser huid),extended
+,5724,Herpes simplex virus PCR bij immuungecompromitteerde patiënten (bloed),extended
+,5731,Herpes simplex virus kweek (wisser mond),extended
+,5732,Aspergillus species PCR (diverse vochten),extended
+,5733,Aspergillus species PCR (BAL),extended
+,5734,Aspergillus species PCR (biopten),extended
+,5747,Enterovirus kweek (diversen),extended
+,5749,Herpes simplex virus kweek (diversen),extended
+,5751,Enterovirus typering (BAL) (REF. LAB),extended
+,5752,Enterovirus typering (bovenste luchtwegen) (REF. LAB),extended
+,5753,Enterovirus typering (aspiraat) (REF. LAB),extended
+,5754,Enterovirus typering (huid) (REF. LAB),extended
+,5755,Enterovirus typering (oog) (REF. LAB),extended
+,5756,Enterovirus typering (CSV) (REF. LAB),extended
+,5757,Enterovirus typering (faeces) (REF. LAB),extended
+,5758,Enterovirus typering (diversen) (REF. LAB),extended
+,5759,Enterovirus typering (cultuur) (REF. LAB),extended
+,5760,Enterovirus typering (RNA) (REF. LAB),extended
+,5764,Hantavirus PCR (bloed) (REF. LAB),extended
+,5766,Poliovirus screening (faeces) (REF. LAB),extended
+,5768,Adenovirus typering (bloed) (REF. LAB),extended
+,5769,Adenovirus typering (faeces) (REF. LAB),extended
+,5770,Hantavirus Immunoblot (bloed) (REF.LAB),extended
+,5782,Respiratoir panel (BAL) (REF. LAB),extended
+,5783,Respiratoir panel (bovenste luchtwegen) (REF. LAB),extended
+,5784,Respiratoir panel (bronchus- of endotracheaal asp.) (REF. LAB),extended
+,5785,Mycoplasma pneumoniae PCR (BAL) (REF. LAB),extended
+,5786,Mycoplasma pneumoniae PCR (bovenste luchtwegen) (REF. LAB),extended
+,5787,Mycoplasma pneumoniae PCR (bronchus- of endotracheaal asp.) (REF. LAB),extended
+,5788,Mycoplasma pneumoniae PCR (CSV) (REF. LAB),extended
+,5789,Mycoplasma pneumoniae PCR (longbiopt) (REF. LAB),extended
+,5797,Parechovirus PCR (bloed) (REF. LAB),extended
+,5798,Parechovirus PCR (CSV) (REF. LAB),extended
+,5799,Panfungale PCR (lichaamsvochten) (REF. LAB),extended
+,5805,Mucorales PCR (BAL),extended
+,5806,Mucorales PCR (bloed),extended
+,5807,Mucorales PCR (biopsie),extended
+,5808,Mucorales PCR (diverse vochten),extended
+,5863,Rotavirus typering (faeces) (REF. LAB),extended
+,5864,PCR voor detectie van Streptococcus pneumoniae (diverse punctievochten),extended
+,5865,PCR voor detectie van Streptococcus pneumoniae (lumbaal vocht),extended
+,5866,PCR voor detectie van Streptococcus pneumoniae (pleuravocht),extended
+,5936,Precursoren sterolen/cholestanol/fytosterolen (bloed),extended
+,5937,Vrije vetzuren (bloed),extended
+,5941,Pneumokokken polysaccharide As (bloed),extended
+,5945,Toll like receptor functie (bloed),extended
+,5951,Kapseltypering en gevoeligheidsbepaling Streptococcus pneumoniae (pneumokok),extended
+,5953,Mitochondriale functie (fibroblasten),extended
+,5960,Interferon-gamma productie (LiHeparine),extended
+,5961,Insuline (Glucagontest) (bloed),extended
+,5962,Cortisol (Glucagontest) (bloed),extended
+,5963,Groeihormoon (Glucagontest) (bloed),extended
+,5980,Interferon-gamma productie (4 tubes) (EM),extended
+,5999,beta-D-glucantest (bloed),extended
+,6000,beta-D-glucantest (CSV),extended
+,6002,Antinucleaire antistoffen (ANA) (bloed),extended
+,6005,Panfungale PCR (biopsie) (REF. LAB),extended
+,6022,ANCA GBM dot (urgent) (bloed),extended
+,6029,DNA kwantitatief (Farr.) (bloed),extended
+,6030,ENA (bloed),extended
+,6032,RNA Polymerase III (bloed),extended
+,6033,Mi-2 (bloed),extended
+,6034,PM-Scl (bloed),extended
+,6035,Fibrillarine (bloed),extended
+,6037,EliA Jo1 (bloed),extended
+,6038,EliA CENP (bloed),extended
+,6039,EliA PCNA (bloed),extended
+,6040,EliA Rib-P (bloed),extended
+,6041,EliA Ro52 (bloed),extended
+,6043,EliA Ro60 (bloed),extended
+,6048,ANCA in kader van inflammatoire darmziekten,extended
+,6053,ASCA IgG + IgA (bloed),extended
+,6055,Pariëtaalcellen (bloed),extended
+,6056,Intrinsic factor As (bloed),extended
+,6057,Gladde spier (bloed),extended
+,6058,Mitochondriën (bloed),extended
+,6059,Hartspier (bloed),extended
+,6062,Gestreepte spier (bloed),extended
+,6064,Ustekinumab bloedspiegel,extended
+,6068,Pancreas (bloed),extended
+,6070,Bijnier Antistoffen (bloed),extended
+,6072,Tissue transglutaminase (tTG)-IgA (bloed),extended
+,6073,Gedeamideerd gliadine IgG (DGP) (bloed) EM,extended
+,6074,Speekselklier (bloed),extended
+,6076,Cyclisch gecitrullineerd peptide (CCP) (bloed),extended
+,6077,Vrije lichte ketens (RIZIV),extended
+,6078,Vrije lichte ketens (niet-RIZIV),extended
+,6079,Diabetische GAD 65 antistoffen (bloed),extended
+,6081,Glomerulaire basale membraan (bloed),extended
+,6091,Reumafactor IgM (bloed),extended
+,6092,ASLO (bloed),extended
+,6093,BP180 antistoffen ikv diagnose autoimmuun bulleuze dermatose (bloed),extended
+,6097,BP230 antistoffen ikv diagnose autoimmuun bulleuze dermatose (bloed),extended
+,6099,DFS-70 (bloed),extended
+,6100,Screening intraneuronale paraneoplastische As (bloed),extended
+,6101,Screening intraneuronale paraneoplastische As (CSV),extended
+,6103,Desmogleine 1 As ikv diagnose autoimmuun bulleuze dermatose (bloed),extended
+,6104,PR3-ANCA en MPO-ANCA ikv diagnose ANCA-geassocieerde vasculitis,extended
+,6120,BP180 antistoffen ikv follow-up autoimmuun bulleuze dermatose (bloed),extended
+,6124,MPO-ANCA ikv follow-up ANCA-geassocieerde vasculitis,extended
+,6125,Desmogleine 1 As ikv follow-up autoimmuun bulleuze dermatose (bloed),extended
+,6132,Desmogleine 3 As ikv diagnose autoimmuun bulleuze dermatose (bloed),extended
+,6134,PR3-ANCA ikv follow-up ANCA-geassocieerde vasculitis,extended
+,6145,Desmogleine 3 As ikv follow-up autoimmuun bulleuze dermatose (bloed),extended
+,6181,Aspergillus fumigatus Gm 3 (bloed),extended
+,6182,BP230 antistoffen ikv follow-up autoimmuun bulleuze dermatose (bloed),extended
+,6183,Candida albicans Gm 5 (bloed),extended
+,6186,Cladosporium herbarum Gm 2 (bloed),extended
+,6187,Stachybotrys atra Gm 24 (bloed),extended
+,6191,Micropolyspora faeni Gm 22 (bloed),extended
+,6195,"Serum, pluimen, faeces van parkiet Ge 90 (bloed)",extended
+,6196,Aspergillus flavus Gm228 (bloed),extended
+,6197,Penicillium chrysogenum Gm1 (bloed),extended
+,6208,"Serum, pluimen, faeces van duif Ge 91 (bloed)",extended
+,6209,"Serum, pluimen, faeces van papegaai Ge 92 (bloed)",extended
+,6213,Laceyella sacchari Gm 42 (bloed),extended
+,6215,Alternaria alternata Gm 6 (bloed),extended
+,6226,Faeces van kanarie Ge200 (bloed),extended
+,6235,Anti-celmembraan neuronale antistoffen (bloed) (EM),extended
+,6236,Anti-celmembraan neuronale antistoffen (CSV) (EM),extended
+,6380,Opsporen van cryoglobulinen (bloed),extended
+,6571,Totaal IgE (bloed),extended
+,6572,Tryptase (bloed),extended
+,6576,Neurofilament,extended
+,6578,Ratio Amyloïd-beta 1-42/Amyloïd-beta 1-40,extended
+,6579,totaal tau,extended
+,6701,Candida (Antigeenstimulatie) (bloed),extended
+,6703,Tetanus toxoid (Antigeenstimulatie) (bloed),extended
+,6704,Tuberculine (Antigeenstimulatie) (bloed),extended
+,6705,Herpes simplex (Antigeenstimulatie) (bloed),extended
+,6707,Varicella (Antigeenstimulatie) (bloed),extended
+,6708,Bof (Antigeenstimulatie) (bloed),extended
+,6709,PWM (Mitogeenstimulatie) (bloed),extended
+,6710,Influenza (Antigeenstimulatie) (bloed),extended
+,6712,IL-2 + anti-CD3 (Mitogeenstimulatie) (bloed),extended
+,6719,PHA (Mitogeenstimulatie) (bloed),extended
+,6720,ConA (Mitogeenstimulatie) (bloed),extended
+,6722,LTT op diverse stoffen (bloed),extended
+,6724,Anti-HMGCoA Reductase As,extended
+,6845,MOG antistoffen (csv),extended
+,6846,Caspr2/LGi1 antistoffen (CSV),extended
+,6847,Caspr2/LGi1 antistoffen (bloed),extended
+,6848,MOG antistoffen (bloed),extended
+,6850,Differentiële celtelling (BAL),extended
+,6860,Differentiële celtelling (sputum),extended
+,6867,B-cellen (CD19) (BAL),extended
+,6868,T-cellen (CD3) (BAL),extended
+,6877,CD4 T-cellen (BAL),extended
+,6878,CD8 T-cellen (BAL),extended
+,6882,PLA2R antistoffen: diagnose,extended
+,6893,PLA2R antistoffen: opvolging,extended
+,6950,Scleroderma-geassocieerde antistoffen (bloed),extended
+,6951,Scleroderma-geassocieerde antistoffen - buiten ZIV (bloed),extended
+,6960,Leverziekten geassocieerde antistoffen (bloed),extended
+,6961,Leverziekten geassocieerde antistoffen - buiten ZIV (bloed),extended
+,6981,ANA myositis specifieke antistoffen,extended
+,6982,ANA myositis specifieke antistoffen buiten RIZIV,extended
+,7214,Primidone,extended
+,7215,Pregabaline,extended
+,7216,Gabapentine,extended
+,7222,Methanol (bloed),extended
+,7223,Ethanol (bloed),extended
+,7224,Salicylaat (bloed),extended
+,7225,Paracetamol (bloed),extended
+,7226,Barbituraten (bloed),extended
+,7230,Antidepressiva doseren (bloed),extended
+,7231,Ethyleenglycol + 5-oxoproline (bloed),extended
+,7235,Andere (Toxicologie) (bloed),extended
+,7236,Thiopental drip (bloed),extended
+,7237,Thiopental drip gestopt (bloed),extended
+,7245,Opiaten (bloed),extended
+,7246,Cocaïne (bloed),extended
+,7247,Cannabinoïden (bloed),extended
+,7248,Amfetaminen (bloed),extended
+,7250,Ethylglucuronide en Ethylsulfaat (urine),extended
+,7252,Topiramaat,extended
+,7253,Lacosamide,extended
+,7255,Cadmium doseren (bloed),extended
+,7261,Methanol (urine),extended
+,7262,Ethanol (urine),extended
+,7263,Salicylaat (urine),extended
+,7264,Paracetamol (urine),extended
+,7265,Barbituraten (urine),extended
+,7268,Benzodiazepines (urine),extended
+,7272,Antidepressiva opzoeken (urine),extended
+,7276,Cocaïne (urine),extended
+,7277,Cannabinoïden (urine),extended
+,7278,Amfetaminen en analogen (urine),extended
+,7280,Ethyleenglycol (urine),extended
+,7282,Pesticiden (urine),extended
+,7286,Andere (Toxicologie) (urine),extended
+,7287,Neuroleptica (urine),extended
+,7288,Toxicologische screening (urine),extended
+,7289,Laxativa (urine),extended
+,7290,Diuretica (urine),extended
+,7304,PT (orale antistolling met advies),extended
+,7308,Trombine tijd (bloed),extended
+,7314,Factor V (bloed),extended
+,7315,Factor II (selectief protrombine)(bloed),extended
+,7316,Factor VIII chromogene inhibitor (bloed),extended
+,7318,Factor VII (bloed),extended
+,7319,Factor X (bloed),extended
+,7320,Factor VIII coagulans (bloed),extended
+,7321,Factor VIII coagulans inhibitor (bloed),extended
+,7322,von Willebrand factor antigeen (bloed),extended
+,7323,von Willebrand faktor Ristocetine cofaktor (bloed),extended
+,7324,von Willebrand protease (bloed),extended
+,7325,Factor IX activiteit (bloed),extended
+,7326,Factor IX inhibitor (bloed),extended
+,7327,Factor XI (bloed),extended
+,7328,Factor XII (bloed),extended
+,7329,Antitrombine (bloed),extended
+,7330,Proteïne C (bloed),extended
+,7331,Proteïne S (bloed),extended
+,7332,aPC resistentie (bloed),extended
+,7333,von Willebrand multimeren (bloed),extended
+,7334,Reptilase tijd (bloed),extended
+,7335,Alfa 2-antiplasmine (bloed),extended
+,7336,Plasminogeen (bloed),extended
+,7338,Factor V inhibitor (bloed),extended
+,7339,Trombocyten functie (PFA) (bloed) (STAT),extended
+,7341,Lupus anticoagulans (bloed),extended
+,7342,Factor VII inhibitor (bloed),extended
+,7343,Cardiolipine antistof IgG (bloed),extended
+,7346,Cardiolipine antistof IgM (bloed),extended
+,7347,Factor II inhibitor (bloed),extended
+,7350,Factor XIII inhibitor (bloed),extended
+,7351,Homocysteïne (bloed),extended
+,7352,Homocysteïne na belasting (bloed),extended
+,7353,Rivaroxaban (bloed),extended
+,7354,Apixaban (bloed),extended
+,7355,Fondaparinux (bloed),extended
+,7356,LMWH (bloed),extended
+,7357,UF Heparine (bloed),extended
+,7358,Dabigatran (bloed),extended
+,7359,Edoxaban (bloed),extended
+,7361,Spontane tromboc. aggreg. (bloed) (STAT),extended
+,7363,Trombocyten aggregatie (bloed) (STAT),extended
+,7365,Trombocyten ATP secretie (bloed) (STAT),extended
+,7366,Confirmatie lage Trombocyten ATP secretie (bloed) (STAT),extended
+,7368,Anti-B2 glycoproteine Ib As IgG,extended
+,7369,Anti-B2 glycoproteine Ib As IgM,extended
+,7370,Bloedingstijd (Ivy) (bloed),extended
+,7375,von Willebrand protease inhibitor (bloed),extended
+,7380,Normandy (Factor VIII bindingsassay) (bloed),extended
+,7382,Tissue plasminogen activator (TPA) (bloed),extended
+,7383,Prekallikreïne,extended
+,7386,HMW Kininogeen,extended
+,7390,Emicizumab,extended
+,7391,Factor XIII activiteit (bloed),extended
+,7392,Factor XIII aanwezigheid (bloed),extended
+,7394,Hepar. geïnduc.trombop. (bloed),extended
+,7396,Factor VIII chromogeen: humane reagentia (bloed),extended
+,7398,Vaccine-induced immune thrombotic thrombocytopenia (VITT) (bloed),extended
+,7455,Nicotine/cotinine (urine),extended
+,7456,Creatine/Guanidinoazijnzuur (bloed),extended
+,7457,Creatine/Guanidinoazijnzuur (urine),extended
+,7458,Creatine/Guanidinoazijnzuur (CSV),extended
+,7550,Chylomicronen (peritoneaal vocht),extended
+,7701,Ethanol (diverse),extended
+,7723,Andere (Toxicologie) (diverse),extended
+,8005,Infliximab bloedspiegel bij verdunning (incl. anti-infliximab as indien van toepassing),extended
+,8006,Adalimumab bloedspiegel bij verdunning (incl. anti-adalimumab as indien van toepassing),extended
+,8007,Ustekinumab bloedspiegel bij verdunning,extended
+,8008,Vedolizumab bloedspiegel bij verdunning,extended
+,8020,Anti-Infliximab antistoffen,extended
+,8030,Anti-Adalimumab antistoffen,extended
+,8042,Infliximab bloedspiegel (incl. anti-infliximab as indien van toepassing) (EM),extended
+,8105,Infliximab bloedspiegel bij subcutane toediening (incl. anti-infliximab as indien van toepassing) (EM),extended
+,8150,Vedolizumab bloedspiegel bij subcutane toediening,extended
+,8649,Vitaal kleuring (sperma),extended
+,8835,CD5 (+) B-cellen (bloed),extended
+,8836,HLA-DR (bloed),extended
+,8837,B-cellen (CD19) (bloed),extended
+,8838,T-cellen (CD3) (bloed),extended
+,8845,CD4 T-cellen (bloed),extended
+,8846,CD8 T-cellen (bloed),extended
+,8848,Natural killer en killer cells (bloed),extended
+,8850,CD4(+) regulatoire T-cellen (bloed),extended
+,8851,CD62-L (L-selectine) (bloed),extended
+,8852,CD57 (bloed),extended
+,8853,CD28 (bloed),extended
+,8870,Naïeve T-cellen (CD27+ CD45RA+),extended
+,8871,STAT1 fosforylatie (monocyten)(bloed),extended
+,8872,Expressie CD107a (bloed),extended
+,8873,Perforine expressie (bloed),extended
+,8874,XIAP expressie (bloed),extended
+,8875,IL12RB1 (CD212)(bloed),extended
+,8876,SAP expressie (bloed),extended
+,8877,Alfa/beta en gamma/delta binnen T-celsubpopulaties (bloed),extended
+,8880,BTK (bloed),extended
+,8885,Memory B-cellen (bloed),extended
+,8886,Adhesie (CD18/CD11 expressie) (bloed),extended
+,8888,CD40 expressie op B-lymfocyten (bloed),extended
+,8890,Oxidatief metabolisme (DHR oxidatie) (bloed),extended
+,8891,CD34 (progenitor cellen),extended
+,8893,Parox. nachtelijke Hgb-urie (bloed),extended
+,8894,CD40 Ligand expressie (bloed),extended
+,8895,Hematologische immuunfenotypering (CSV),extended
+,8896,Hematologische immuunfenotypering (diverse vochten),extended
+,8898,Hematologische immuunfenotypering (bloed),extended
+,8947,Kweek progenitor cellen (diversen),extended
+,9301,Osmotische resistentie (bloed),extended
+,9316,Foetaal bloed (bloed),extended
+,9331,Opsporen Hemoglobinopathie (bloed),extended
+,9348,Sikkelcel screening (bloed),extended
+,9361,Aminolevulinezuur (ALA) (urinedebiet),extended
+,9362,Aminolevulinezuur (ALA) (urinestaal),extended
+,9363,Porfobilinogeen (urinedebiet),extended
+,9365,Opzoeken Porfyrines (urinestaal),extended
+,9367,Opzoeken Porfyrines (urinedebiet),extended
+,9370,Zink-protoporfyrine/vrij protoporfyrine IX (RBC) (bloed),extended
+,9373,Totale protoporfyrines (RBC) (bloed),extended
+,9378,Porfyrines (faecesstaal),extended
+,9385,Porfobilinogeen deaminase (RBC) (bloed),extended
+,9386,Porfobilinogeen (urinestaal),extended
+,9387,Porfyrines (plasma),extended
+,9395,Hexokinase (bloed),extended
+,9397,Pyruvaat kinase (bloed),extended
+,9399,G-6-P dehydrogenase (bloed),extended
+,9431,Cytologisch onderzoek (beenmerg),extended
+,9475,Hematologische immuunfenotypering (beenmerg),extended
+,9476,DNA inhoud (beenmerg),extended
+,10132,Bijengif i1 (bloed),extended
+,10133,Wespengif i3 (bloed),extended
+,10134,"Veldwesp, Amerikaanse i4 (bloed)",extended
+,10135,Kakkerlak (Blatella germanica) i6 (bloed),extended
+,10136,Mier (Solenopsis invicta) i70 (bloed),extended
+,10137,Mug (Aedes communis) i71 (bloed),extended
+,10138,Muggenlarve (Chironimus thummi) i73 (bloed),extended
+,10139,Europese hoornaar i75 (bloed),extended
+,10142,Ispaghula k72 (bloed),extended
+,10145,TDI (tolueen diisocyanaat) k75 (bloed),extended
+,10146,MDI (diphenyl methaan diisocyanaat) k76 (bloed),extended
+,10147,HDI (hexamethyleen diisocyanaat) k77 (bloed),extended
+,10148,Ethyleenoxide k78 (bloed),extended
+,10149,Phtaalzuuranhydride k79 (bloed),extended
+,10150,Formaldehyde k80 (bloed),extended
+,10151,Ficus k81 (bloed),extended
+,10152,Latex k82 (bloed),extended
+,10153,Katoenzaad k83 (bloed),extended
+,10154,Zonnebloemzaad k84 (bloed),extended
+,10157,Alfa amylase k87 (bloed),extended
+,10176,Katoen o1 (bloed),extended
+,10177,Humaan sperma o70 (bloed),extended
+,10280,Ambrosia (nAmb a 1) (w230),extended
+,10303,Protamine U1190 (bloed),extended
+,10433,"Graspollenmengsel gx6 (g2,g5,g10,g11,g13,g17) (bloed)",extended
+,10435,Meelmot i203 (bloed),extended
+,10436,Daas (Tabanus spp) i204 (bloed),extended
+,10437,Hommelgif i205 (bloed),extended
+,10439,Bromeline k202 (bloed),extended
+,10444,Wit van ei (nGal d 4) k208 (bloed),extended
+,10458,Trichophyton ment. var interdi. m211 (bloed),extended
+,10463,Meelworm visvoer o211 (bloed),extended
+,10468,Regionaal mengsel rx5 (d1-e1-m3-i6) (bloed),extended
+,10549,Kruidenmengsel fx70 (f272-f274-f273-rf275) (bloed),extended
+,10563,Wespengif (Amerikaanse) i2 (bloed),extended
+,10565,Gele horzel gif i5 (bloed),extended
+,10568,Berlijnse kever i76 (bloed),extended
+,10569,Zijde worm i8 (bloed),extended
+,10590,"Boompollenmengsel tx1 (t1,t3,t7,t8,t10) (bloed)",extended
+,10616,Zure bosbes Rf341 (bloed),extended
+,10620,Kakkerlak i206 (bloed),extended
+,10646,"Voedselmengsel fx26 (f1,f2,f13,f89) (bloed)",extended
+,10647,"Voedselmengsel fx27 (f3,f4,f14,f17) (bloed)",extended
+,10648,"Voedselmengsel fx28 (f10,f24,f27,f84) (bloed)",extended
+,10650,Malassezia spp. m227 (bloed),extended
+,10651,MUXF3 van bromeline o214 (bloed),extended
+,10652,Latex (rHev b 1) k215 (bloed),extended
+,10654,Latex (rHev b 3) k217 (bloed),extended
+,10655,Latex (rHev b 5) k218 (bloed),extended
+,10657,Latex (rHev b 6.02) k220 (bloed),extended
+,10658,Latex (rHev b 8) k221 (bloed),extended
+,10660,Latex (rHev b 11) k224 (bloed),extended
+,10687,"Veldwesp, Europese i77 (bloed)",extended
+,10703,Bijengif (rApi m 1) i208 (bloed),extended
+,10709,Wespengif (rVes v 5) i209 (bloed),extended
+,10710,"Veldwesp, Europese (rPol d 5) i210 (bloed)",extended
+,10717,Wespengif (rVes v 1) i211 (bloed),extended
+,10718,Fruitmengsel fx31 (bloed),extended
+,10726,Rocuronium (u254),extended
+,10740,Walnoot (rJug r1) (f441) (bloed),extended
+,10741,Walnoot (rJug r3) (f442) (bloed),extended
+,10742,Cashewnoot (rAna o3) (f443) (bloed),extended
+,10743,Gliadine (f98) (bloed),extended
+,10744,"Galactose-alpha-1,3-galactose (o215) (bloed)",extended
+,10751,Wasgagel (t56) (bloed),extended
+,10754,Citrusmengsel fx29 (bloed),extended
+,10755,Bijengif (rApi m 10) i217 (bloed),extended
+,10757,Snoekbaars f 415 (bloed),extended
+,10758,Bijengif (rApi m2) i214 (bloed),extended
+,10759,Bijengif (rApi m 3) i215 (bloed),extended
+,10760,Bijengif (rApi m 5) i 216 (bloed),extended
+,10762,"Schimmelmengsel mx4 (m3, m207, m36, m228) (bloed)",extended
+,10763,Pinda (rAra h 6) (f447) (bloed),extended
+,10765,Rode snapper (f381),extended
+,10769,Hennep U901 (bloed),extended
+,10770,Aziatische hoornaar U1223 (bloed),extended
+,10771,Bijengif (rApi m 4) U1273 (bloed),extended
+,10772,Cannabis (rCan s3) U1368 (bloed),extended
+,10773,Lepidoglyphus destructor (rLep d2) U1366 (bloed),extended
+,11000,Ademtest Lactose,extended
+,11001,Ademtest Fructose,extended
+,11002,Ademtest Sucrose,extended
+,11003,Ademtest Ureum,extended
+,11004,Ademtest Mengtriglyceriden,extended
+,11005,Ademtest Aminopyrine,extended
+,11008,Ademtest 14C-Octaanzuur en 13C-glycine: maaglediging (vast+vloeibaar),extended
+,11009,Ademtest Na-13C-Octanoaat: maaglediging bij zuigelingen (vloeibaar),extended
+,11010,Ademtest 13C-Octaanzuur: maaglediging (vast),extended
+,11013,Vetdosage in 3x24u faecescollecte zonder radioactieve merker,extended
+,11014,Vetdosage in 3x24u faecescollecte na toediening van 3H-PEG,extended
+,11015,Vetdosage + galzuurbep. in 3x24u faecescollecte zonder radioactieve merker,extended
+,11018,Dundarmpermeabiliteitstest,extended
+,11019,"3H-PEG toediening met 3x24u faecescollecte voor vetdossage, galzuur- en transitbepaling",extended
+,11020,Glucoseademtest (bacteriële overgroei),extended
+,11513,Pneumocystis jiroveci PCR (bronchus- of endotracheaal asp.) EM,extended
+,11517,Mycoplasma pneumoniae PCR (BAL) EM,extended
+,11518,Mycoplasma pneumoniae PCR (bronchus- of endotracheaal asp.) EM,extended
+,11519,Mycoplasma pneumoniae PCR (CSV) EM,extended
+,11547,Mycoplasma pneumoniae PCR (longbiopt) EM,extended
+,11758,Pneumocystis jiroveci PCR (BAL) EM,extended
+,12033,Adenovirus PCR (bloed) (EM),extended
+,12034,Adenovirus PCR (faeces) (EM),extended
+,12035,Adenovirus PCR (CSV) (EM),extended
+,12036,Adenovirus PCR (urine) (EM),extended
+,12038,Adenovirus PCR (diverse) (EM),extended
+,12047,Hepatitis C PCR (sperma) (EM),extended
+,12049,Hepatitis B PCR (sperma) (EM),extended
+,12460,Toxoplasma gondii PCR screening post transplant (bloed) EM,extended
+,12462,Epstein-Barrvirus PCR (bloed) EM,extended
+,12465,Polyomavirus JC/BK PCR (bloed) EM,extended
+,12480,Polyomavirus JC/BK PCR (urine) EM,extended
+,12496,Cytomegalovirus PCR (CSV) EM,extended
+,12497,Epstein-Barrvirus PCR (CSV) EM,extended
+,12501,Polyomavirus JC/BK PCR (CSV) EM,extended
+,12560,Varicella-zostervirus PCR (bovenste luchtwegen) EM,extended
+,12562,Mycoplasma pneumoniae PCR (bovenste luchtwegen) EM,extended
+,12605,Cytomegalovirus PCR (diversen) EM,extended
+,12608,Varicella-zostervirus PCR (diversen) EM,extended
+,12610,Epstein-Barrvirus PCR (diversen) EM,extended
+,12612,Polyomavirus JC/BK PCR (diversen) EM,extended
+,12635,Cytomegalovirus PCR (amniosvocht) EM,extended
+,12660,Cytomegalovirus PCR (oog: vitreum/voorkamervocht) EM,extended
+,12670,HbA1c via boronaataffiniteit (bloed),extended
+,15592,Bofvirus PCR (CSV) (EM),extended
+,15678,Varicella-zostervirus PCR (BAL) EM,extended
+,15680,Toxoplasma gondii PCR (BAL) EM,extended
+,15713,Bofvirus PCR (bovenste luchtwegen) (EM),extended
+,15722,Varicella-zostervirus PCR (wisser huid) EM,extended
+,15726,Varicella-zostervirus PCR (bloed) EM,extended
+,15750,Monkeypox virus detectie (wisser huidletsel),extended
+,15751,Monkeypox virus detectie (wisser keel),extended
+,15753,Monkeypox virus detectie (wisser rectaal),extended
+,17211,Fractioneren/Confirmatie Porfyrines (urinestaal),extended
+,17212,Fractioneren/Confirmatie Porfyrines (urinedebiet),extended
+,17274,Opiaten (urine),extended
+,25736,Panbacteriële PCR (biopsie) (EM),extended
+,25737,Panbacteriële PCR (lichaamsvochten) (EM),extended

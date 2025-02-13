@@ -1,0 +1,261 @@
+﻿case_id,uzl_test_name,test_type,round
+GP-S1,CRP (bloed),essential,first
+GP-S1,"Complete bloedceltelling, incl. WBC differentiatie (bloed)",essential,first
+GP-S1,Creatinine (bloed),essential,first
+GP-S1,Glucose (bloed),essential,first
+GP-S1,TSH (bloed),essential,first
+GP-S1,ALT (GPT) (bloed),essential,second
+GP-S1,Kalium (bloed),essential,third
+GP-S1,Natrium (bloed),essential,third
+GP-S1,Ferritine (bloed),conditional,second
+GP-S1,Vrij T4 (bloed),conditional,second
+GP-S1,Gamma GT (bloed),conditional,third
+GP-S1,AST (GOT) (bloed),conditional,third
+GP-S2,"Complete bloedceltelling, incl. WBC differentiatie (bloed)",essential,first
+GP-S2,Creatinine (bloed),essential,first
+GP-S2,Glucose (bloed),essential,first
+GP-S2,TSH (bloed),essential,first
+GP-S2,CRP (bloed),essential,second
+GP-S2,Teststrook screening en microscopisch onderzoek (urinestaal),essential,second
+GP-S2,Kalium (bloed),essential,third
+GP-S2,Natrium (bloed),essential,third
+GP-S2,Vrij T4 (bloed),conditional,second
+GP-S2,HbA1c (bloed),conditional,third
+GP-S2,Cultuur (midstream urine),conditional,meeting
+GP-S2,PSA (buiten RIZIV) (bloed),conditional,meeting
+GP-S3,CRP (bloed),essential,first
+GP-S3,Cultuur (faeces),essential,second
+GP-S3,"Complete bloedceltelling, incl. WBC differentiatie (bloed)",essential,third
+GP-S3,hCG totaal (zwangere) (bloed),essential,third
+GP-S3,Glucoseademtest (bacteriële overgroei),conditional,second
+GP-S3,Ademtest Lactose,conditional,second
+GP-S3,Ademtest Fructose,conditional,second
+GP-S3,Tissue transglutaminase (tTG)-IgA (bloed),conditional,second
+GP-S3,IgA (bloed),conditional,third
+GP-S3,Microscop. onderzoek (o.a. vet) (faeces),conditional,third
+GP-S3,Calprotectine (faeces),conditional,meeting
+GP-S4,ALT (GPT) (bloed),essential,first
+GP-S4,CRP (bloed),essential,first
+GP-S4,"Complete bloedceltelling, incl. WBC differentiatie (bloed)",essential,first
+GP-S4,Gamma GT (bloed),essential,first
+GP-S4,TSH (bloed),essential,first
+GP-S4,Alk. fosfatasen (bloed),essential,second
+GP-S4,Bilirubine totaal en direct (bloed),essential,second
+GP-S4,Creatinine (bloed),essential,second
+GP-S4,Eiwit elektroforese (bloed),essential,second
+GP-S4,Glucose (bloed),essential,second
+GP-S4,Bezinkingssnelheid RBC (bloed),essential,third
+GP-S4,Vrij T4 (bloed),essential,meeting
+GP-S4,Chloride (bloed),conditional,third
+GP-S4,Natrium (bloed),conditional,third
+GP-S4,Reticulocyten telling (bloed),conditional,third
+GP-S4,AST (GOT) (bloed),conditional,meeting
+GP-S5,ALT (GPT) (bloed),essential,first
+GP-S5,Alk. fosfatasen (bloed),essential,first
+GP-S5,Bilirubine totaal en direct (bloed),essential,first
+GP-S5,CRP (bloed),essential,first
+GP-S5,"Complete bloedceltelling, incl. WBC differentiatie (bloed)",essential,first
+GP-S5,Creatinine (bloed),essential,first
+GP-S5,Gamma GT (bloed),essential,first
+GP-S5,Hepatitis A virus IgG (bloed),essential,first
+GP-S5,Hepatitis A virus IgM (bloed),essential,first
+GP-S5,Hepatitis B virus surface antigeen (bloed),essential,first
+GP-S5,Hepatitis B virus surface antistoffen (bloed),essential,first
+GP-S5,Hepatitis C virus antistoffen (bloed),essential,first
+GP-S5,LDH (bloed),essential,second
+GP-S5,Glucose (bloed),essential,third
+GP-S5,HbA1c (bloed),essential,meeting
+GP-S5,Hepatitis B virus e Ag (bloed),conditional,second
+GP-S5,Hepatitis B virus core IgM (bloed),conditional,second
+GP-S5,Hepatitis B virus e As (bloed),conditional,second
+GP-S5,Hepatitis B virus core antistof. (bloed),conditional,third
+GP-S5,Reticulocyten telling (bloed),conditional,third
+GP-S5,AST (GOT) (bloed),conditional,meeting
+GP-S6,ALT (GPT) (bloed),essential,first
+GP-S6,"Complete bloedceltelling, incl. WBC differentiatie (bloed)",essential,first
+GP-S6,Creatinine (bloed),essential,first
+GP-S6,Gamma GT (bloed),essential,first
+GP-S6,Protrombinetijd (PT) (bloed),essential,first
+GP-S6,Reticulocyten telling (bloed),essential,first
+GP-S6,TSH (bloed),essential,second
+GP-S6,CRP (bloed),essential,second
+GP-S6,Folaat (bloed),conditional,second
+GP-S6,Vitamine B12 (bloed),conditional,second
+GP-S6,Eiwit totaal (bloed),conditional,second
+GP-S6,Ferritine (bloed),conditional,second
+GP-S6,Ijzer en transferrine (incl. transferrine saturatie) (bloed),conditional,second
+GP-S6,AST (GOT) (bloed),conditional,third
+GP-S6,Albumine (bloed),conditional,third
+GP-S6,Alk. fosfatasen (bloed),conditional,third
+GP-S6,Bezinkingssnelheid RBC (bloed),conditional,third
+GP-S6,Bilirubine totaal en direct (bloed),conditional,third
+GP-S6,Calcium totaal (bloed),conditional,third
+GP-S6,Creatinine (urinestaal),conditional,third
+GP-S6,Glucose (bloed),conditional,third
+GP-S6,aPTT (bloed),conditional,third
+GP-S6,Eiwit elektroforese (bloed),conditional,meeting
+GP-S7,Antinucleaire antistoffen (ANA) (bloed),essential,first
+GP-S7,"Complete bloedceltelling, incl. WBC differentiatie (bloed)",essential,first
+GP-S7,Creatinine (bloed),essential,first
+GP-S7,Bezinkingssnelheid RBC (bloed),essential,second
+GP-S7,TSH (bloed),essential,second
+GP-S7,Gamma GT (bloed),essential,third
+GP-S7,Calcium totaal (bloed),conditional,second
+GP-S7,Ferritine (bloed),conditional,second
+GP-S7,Folaat (bloed),conditional,second
+GP-S7,Ijzer en transferrine (incl. transferrine saturatie) (bloed),conditional,second
+GP-S7,Vrij T4 (bloed),conditional,second
+GP-S7,ANCA in kader van inflammatoire darmziekten,conditional,third
+GP-S7,Bilirubine totaal en direct (bloed),conditional,third
+GP-S7,Cyclisch gecitrullineerd peptide (CCP) (bloed),conditional,third
+GP-S7,Reumafactor IgM (bloed),conditional,third
+GP-S7,Eiwit elektroforese (bloed),conditional,third
+GP-S7,ALT (GPT) (bloed),conditional,meeting
+GP-S8,CRP (bloed),essential,first
+GP-S8,"Complete bloedceltelling, incl. WBC differentiatie (bloed)",essential,first
+GP-S8,Creatinine (bloed),essential,first
+GP-S8,Ferritine (bloed),essential,first
+GP-S8,Gamma GT (bloed),essential,third
+GP-S8,Ijzer en transferrine (incl. transferrine saturatie) (bloed),essential,third
+GP-S8,Bilirubine totaal en direct (bloed),conditional,second
+GP-S8,NT-proBNP (bloed),conditional,third
+GP-S8,Reticulocyten telling (bloed),conditional,third
+GP-S8,Vitamine B12 (bloed),conditional,third
+GP-S8,ALT (GPT) (bloed),conditional,meeting
+GP-S8,Alk. fosfatasen (bloed),conditional,meeting
+GP-S9,"Complete bloedceltelling, incl. WBC differentiatie (bloed)",essential,first
+GP-S9,Creatinine (bloed),essential,first
+GP-S9,ALT (GPT) (bloed),essential,second
+GP-S9,TSH (bloed),essential,second
+GP-S9,CRP (bloed),essential,third
+GP-S9,Alk. fosfatasen (bloed),conditional,second
+GP-S9,Bilirubine totaal en direct (bloed),conditional,second
+GP-S9,Ijzer en transferrine (incl. transferrine saturatie) (bloed),conditional,second
+GP-S9,Vitamine B12 (bloed),conditional,second
+GP-S9,Vrij T4 (bloed),conditional,second
+GP-S9,AST (GOT) (bloed),conditional,third
+GP-S9,Ferritine (bloed),conditional,meeting
+GP-S9,Gamma GT (bloed),conditional,meeting
+GP-S9,NT-proBNP (bloed),conditional,meeting
+GP-S10,"Complete bloedceltelling, incl. WBC differentiatie (bloed)",essential,first
+GP-S10,Creatinine (bloed),essential,first
+GP-S10,Glucose (bloed),essential,first
+GP-S10,Kalium (bloed),essential,first
+GP-S10,Natrium (bloed),essential,first
+GP-S10,ACTH om ... u (bloed),essential,second
+GP-S10,ALT (GPT) (bloed),essential,second
+GP-S10,CRP (bloed),essential,second
+GP-S10,Cortisol ochtend 6-10u (bloed),essential,second
+GP-S10,Creatinine (urinestaal),essential,second
+GP-S10,Gamma GT (bloed),essential,second
+GP-S10,Cortisol om ... u (bloed),essential,third
+GP-S10,Aldosteron (bloed),essential,meeting
+GP-S10,Ijzer en transferrine (incl. transferrine saturatie) (bloed),conditional,second
+GP-S10,ANA myositis specifieke antistoffen,conditional,second
+GP-S10,Alk. fosfatasen (bloed),conditional,second
+GP-S10,Bilirubine totaal en direct (bloed),conditional,second
+GP-S10,Ferritine (bloed),conditional,second
+GP-S10,Antinucleaire antistoffen (ANA) (bloed),conditional,third
+GP-S10,Bezinkingssnelheid RBC (bloed),conditional,third
+GP-S10,TSH (bloed),conditional,meeting
+ER-S1,CK (creatinekinase) totaal (bloed),essential,first
+ER-S1,CRP (bloed),essential,first
+ER-S1,"Complete bloedceltelling, incl. WBC differentiatie (bloed)",essential,first
+ER-S1,D-dimeren (bloed),essential,first
+ER-S1,LDH (bloed),essential,first
+ER-S1,TSH (bloed),essential,first
+ER-S1,Troponine T hs (bloed),essential,first
+ER-S1,Natrium (bloed),essential,second
+ER-S1,aPTT (bloed),essential,second
+ER-S1,Creatinine (bloed),essential,second
+ER-S1,Kalium (bloed),essential,second
+ER-S1,Protrombinetijd (PT) (bloed),essential,second
+ER-S1,ALT (GPT) (bloed),essential,third
+ER-S1,Bicarbonaat (bloed),essential,third
+ER-S1,Calcium totaal (bloed),essential,third
+ER-S1,Chloride (bloed),essential,third
+ER-S1,Glucose (bloed),essential,third
+ER-S1,NT-proBNP (bloed),conditional,second
+ER-S1,AST (GOT) (bloed),conditional,third
+ER-S1,Bilirubine totaal en direct (bloed),conditional,third
+ER-S1,Gamma GT (bloed),conditional,third
+ER-S1,Vrij T4 (bloed),conditional,third
+ER-S1,Lipasen (bloed),conditional,meeting
+ER-S2,CRP (bloed),essential,first
+ER-S2,"Complete bloedceltelling, incl. WBC differentiatie (bloed)",essential,first
+ER-S2,Chloride (bloed),essential,second
+ER-S2,Creatinine (bloed),essential,second
+ER-S2,Kalium (bloed),essential,second
+ER-S2,Natrium (bloed),essential,second
+ER-S2,ALT (GPT) (bloed),conditional,second
+ER-S2,Alk. fosfatasen (bloed),conditional,second
+ER-S2,Bilirubine totaal en direct (bloed),conditional,second
+ER-S2,Gamma GT (bloed),conditional,second
+ER-S2,Lipasen (bloed),conditional,second
+ER-S2,Teststrook screening en microscopisch onderzoek (urinestaal),conditional,third
+ER-S3,ALT (GPT) (bloed),essential,first
+ER-S3,Bilirubine totaal en direct (bloed),essential,first
+ER-S3,CRP (bloed),essential,first
+ER-S3,Calcium totaal (bloed),essential,first
+ER-S3,Chloride (bloed),essential,first
+ER-S3,"Complete bloedceltelling, incl. WBC differentiatie (bloed)",essential,first
+ER-S3,Creatinine (bloed),essential,first
+ER-S3,Kalium (bloed),essential,first
+ER-S3,Lipasen (bloed),essential,first
+ER-S3,Natrium (bloed),essential,first
+ER-S3,Alk. fosfatasen (bloed),essential,third
+ER-S3,Gamma GT (bloed),essential,third
+ER-S3,Glucose (bloed),essential,third
+ER-S3,Protrombinetijd (PT) (bloed),essential,third
+ER-S3,aPTT (bloed),essential,third
+ER-S3,LDH (bloed),essential,third
+ER-S3,Troponine T hs (bloed),essential,meeting
+ER-S3,Albumine (bloed),conditional,second
+ER-S3,Ethanol (bloed),conditional,second
+ER-S3,Cholesterol totaal (bloed),conditional,second
+ER-S3,"Bloedgas panel (veneus bloed) : pH, pCO2, pO2, glucose, lactaat, Na, K, Cl, iCa",conditional,meeting
+ER-S3,Fosfaat (bloed),conditional,meeting
+ER-S3,Teststrook screening en microscopisch onderzoek (urinestaal),conditional,meeting
+ER-S4,"Complete bloedceltelling, incl. WBC differentiatie (bloed)",essential,first
+ER-S4,Creatinine (bloed),essential,first
+ER-S4,"Bloedgas panel (arterieel bloed) : pH, pCO2, pO2, glucose, lactaat, Na, K, Cl, iCa",essential,first
+ER-S4,CRP (bloed),essential,second
+ER-S4,Protrombinetijd (PT) (bloed),essential,second
+ER-S4,Troponine T hs (bloed),essential,second
+ER-S4,ALT (GPT) (bloed),essential,third
+ER-S4,TSH (bloed),essential,third
+ER-S4,aPTT (bloed),essential,third
+ER-S4,Albumine (bloed),conditional,second
+ER-S4,NT-proBNP (bloed),conditional,second
+ER-S4,Alk. fosfatasen (bloed),conditional,third
+ER-S4,Creatinine (urinestaal),conditional,third
+ER-S4,Teststrook screening en microscopisch onderzoek (urinestaal),conditional,third
+ER-S4,Calcium totaal (bloed),conditional,third
+ER-S4,Eiwit totaal (bloed),conditional,third
+ER-S4,Magnesium (bloed),conditional,third
+ER-S5,Bicarbonaat (bloed),essential,first
+ER-S5,"Bloedgas panel (arterieel bloed) : pH, pCO2, pO2, glucose, lactaat, Na, K, Cl, iCa",essential,first
+ER-S5,CRP (bloed),essential,first
+ER-S5,Chloride (bloed),essential,first
+ER-S5,"Complete bloedceltelling, incl. WBC differentiatie (bloed)",essential,first
+ER-S5,Creatinine (bloed),essential,first
+ER-S5,Osmolaliteit (bloed),essential,second
+ER-S5,Protrombinetijd (PT) (bloed),essential,second
+ER-S5,Teststrook screening en microscopisch onderzoek (urinestaal),essential,second
+ER-S5,Toxicologische screening (urine),essential,second
+ER-S5,aPTT (bloed),essential,second
+ER-S5,Ethanol (bloed),essential,third
+ER-S5,Cultuur (midstream urine),conditional,second
+ER-S5,Ammonia (bloed),conditional,second
+ER-S5,HbA1c (bloed),conditional,second
+ER-S5,Magnesium (bloed),conditional,second
+ER-S5,Alk. fosfatasen (bloed),conditional,third
+ER-S5,Fosfaat (bloed),conditional,third
+ER-S5,AST (GOT) (bloed),conditional,third
+ER-S5,Bilirubine totaal en direct (bloed),conditional,third
+ER-S5,Gamma GT (bloed),conditional,third
+ER-S5,ALT (GPT) (bloed),conditional,meeting
+ER-S5,Calcium totaal (bloed),conditional,meeting
+ER-S5,Ureum (bloed),conditional,meeting
+ER-S5,CK (creatinekinase) totaal (bloed),conditional,meeting
+ER-S5,TSH (bloed),conditional,meeting
